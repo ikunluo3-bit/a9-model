@@ -10,8 +10,8 @@ TAG="${1:-exp-trio}"
 python tools/carswap.py \
   --swap "Nissan 370Z>Nissan 370Z" \
       --top-speed 222.5 --accel 2.5 --handling 1.2 --grip 0.95 --steer 58000 --nitro-boost 1.2 --susp 0.000,0.020 \
-  --swap "Mitsubishi Lancer Evolution>Mitsubishi Lancer Evolution" \
-      --mass 120 --accel 2.8 --handling 1.2 --steer 54000 --grip 0.92 --susp 0.000,0.030 \
+  --swap "Mitsubishi Lancer Evolution>Bugatti Tourbillon" \
+      --grip 1.2 --steer 70000 --handling 0.6 --nitro-drain 0.6 \
   --swap "BMW Z4 LCI E89>BMW Z4 LCI E89" \
       --mass 10000 --accel 2000 --handling 1.2 --steer 300000 --grip 20 --downforce 5000 --nitro-boost 10 \
   --swap "Pagani Zonda R>Pagani Zonda R" \
