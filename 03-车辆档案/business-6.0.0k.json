@@ -1,0 +1,2200 @@
+{
+ "atsGT": {
+  "cid": 277,
+  "rank_lo": 3078,
+  "rank_hi": 4161,
+  "ts_lo": 380.0,
+  "ts_hi": 392.3
+ },
+ "Hussarya 33": {
+  "cid": 91,
+  "rank_lo": 2229,
+  "rank_hi": 3910,
+  "ts_lo": 340.0,
+  "ts_hi": 353.4
+ },
+ "Battista": {
+  "cid": 97,
+  "rank_lo": 3122,
+  "rank_hi": 4551,
+  "ts_lo": 350.0,
+  "ts_hi": 370.5
+ },
+ "Panther": {
+  "cid": 378,
+  "rank_lo": 2356,
+  "rank_hi": 4387,
+  "ts_lo": 355.0,
+  "ts_hi": 370.1
+ },
+ "DBS GT Zagato": {
+  "cid": 271,
+  "rank_lo": 2292,
+  "rank_hi": 4109,
+  "ts_lo": 340.0,
+  "ts_hi": 364.5
+ },
+ "Giulia GTAm": {
+  "cid": 274,
+  "rank_lo": 1406,
+  "rank_hi": 2895,
+  "ts_lo": 300.0,
+  "ts_hi": 313.6
+ },
+ "AF8 Falcon Edition": {
+  "cid": 187,
+  "rank_lo": 2037,
+  "rank_hi": 3289,
+  "ts_lo": 321.0,
+  "ts_hi": 334.0
+ },
+ "DBS 770 Ultimate": {
+  "cid": 350,
+  "rank_lo": 2247,
+  "rank_hi": 3922,
+  "ts_lo": 340.0,
+  "ts_hi": 355.3
+ },
+ "Valhalla Concept Car": {
+  "cid": 124,
+  "rank_lo": 3232,
+  "rank_hi": 4515,
+  "ts_lo": 354.0,
+  "ts_hi": 380.2
+ },
+ "AP-0": {
+  "cid": 127,
+  "rank_lo": 2412,
+  "rank_hi": 3922,
+  "ts_lo": 320.0,
+  "ts_hi": 336.8
+ },
+ "Drakuma": {
+  "cid": 207,
+  "rank_lo": 3532,
+  "rank_hi": 4702,
+  "ts_lo": 419.0,
+  "ts_hi": 443.4
+ },
+ "Owl": {
+  "cid": 144,
+  "rank_lo": 3668,
+  "rank_hi": 4861,
+  "ts_lo": 400.0,
+  "ts_hi": 416.3
+ },
+ "V12 Vantage 2022": {
+  "cid": 5005,
+  "rank_lo": 2300,
+  "rank_hi": 4072,
+  "ts_lo": 322.0,
+  "ts_hi": 346.0
+ },
+ "Valkyrie": {
+  "cid": 154,
+  "rank_lo": 3176,
+  "rank_hi": 4487,
+  "ts_lo": 360.0,
+  "ts_hi": 380.2
+ },
+ "Vantage GT12": {
+  "cid": 92,
+  "rank_lo": 2526,
+  "rank_hi": 3958,
+  "ts_lo": 322.0,
+  "ts_hi": 339.5
+ },
+ "Imperium": {
+  "cid": 5010,
+  "rank_lo": 3165,
+  "rank_hi": 4623,
+  "ts_lo": 373.8,
+  "ts_hi": 400.0
+ },
+ "Victor": {
+  "cid": 159,
+  "rank_lo": 2950,
+  "rank_hi": 4251,
+  "ts_lo": 360.0,
+  "ts_hi": 372.8
+ },
+ "One77": {
+  "cid": 180,
+  "rank_lo": 2484,
+  "rank_hi": 3771,
+  "ts_lo": 354.0,
+  "ts_hi": 364.5
+ },
+ "Vulcan": {
+  "cid": 8,
+  "rank_lo": 1970,
+  "rank_hi": 3000,
+  "ts_lo": 328.0,
+  "ts_hi": 345.1
+ },
+ "2017 NSX": {
+  "cid": 45,
+  "rank_lo": 1824,
+  "rank_hi": 3208,
+  "ts_lo": 306.0,
+  "ts_hi": 325.7
+ },
+ "EVO": {
+  "cid": 247,
+  "rank_lo": 2319,
+  "rank_hi": 4265,
+  "ts_lo": 335.0,
+  "ts_hi": 357.1
+ },
+ "AF10": {
+  "cid": 175,
+  "rank_lo": 1905,
+  "rank_hi": 3109,
+  "ts_lo": 323.0,
+  "ts_hi": 338.6
+ },
+ "DB12": {
+  "cid": 288,
+  "rank_lo": 2247,
+  "rank_hi": 3580,
+  "ts_lo": 325.0,
+  "ts_hi": 345.1
+ },
+ "V12 Speedster": {
+  "cid": 156,
+  "rank_lo": 1496,
+  "rank_hi": 2733,
+  "ts_lo": 300.0,
+  "ts_hi": 314.6
+ },
+ "NSX GT3 EVO": {
+  "cid": 146,
+  "rank_lo": 2089,
+  "rank_hi": 3585,
+  "ts_lo": 295.0,
+  "ts_hi": 316.4
+ },
+ "Scalo Superelletra": {
+  "cid": 90,
+  "rank_lo": 1739,
+  "rank_hi": 3093,
+  "ts_lo": 300.0,
+  "ts_hi": 318.3
+ },
+ "S1_Ares": {
+  "cid": 220,
+  "rank_lo": 2206,
+  "rank_hi": 3377,
+  "ts_lo": 296.0,
+  "ts_hi": 309.0
+ },
+ "DB11": {
+  "cid": 47,
+  "rank_lo": 1346,
+  "rank_hi": 2330,
+  "ts_lo": 322.0,
+  "ts_hi": 343.2
+ },
+ "DBS Superleggera": {
+  "cid": 96,
+  "rank_lo": 2412,
+  "rank_hi": 3423,
+  "ts_lo": 339.0,
+  "ts_hi": 357.1
+ },
+ "Valour": {
+  "cid": 305,
+  "rank_lo": 1954,
+  "rank_hi": 3178,
+  "ts_lo": 322.0,
+  "ts_hi": 332.1
+ },
+ "Corsa RRTurbo": {
+  "cid": 151,
+  "rank_lo": 1979,
+  "rank_hi": 3389,
+  "ts_lo": 305.0,
+  "ts_hi": 323.8
+ },
+ "B95": {
+  "cid": 351,
+  "rank_lo": 3306,
+  "rank_hi": 4606,
+  "ts_lo": 380.0,
+  "ts_hi": 397.8
+ },
+ "3.0 CSL Hommage": {
+  "cid": 11,
+  "rank_lo": 889,
+  "rank_hi": 1827,
+  "ts_lo": 280.0,
+  "ts_hi": 299.8
+ },
+ "M4 GT3": {
+  "cid": 253,
+  "rank_lo": 1921,
+  "rank_hi": 3665,
+  "ts_lo": 320.0,
+  "ts_hi": 349.7
+ },
+ "Z4 LCI E89": {
+  "cid": 10,
+  "rank_lo": 518,
+  "rank_hi": 1476,
+  "ts_lo": 250.0,
+  "ts_hi": 269.2
+ },
+ "Battista Edizione Nino Farina": {
+  "cid": 308,
+  "rank_lo": 2845,
+  "rank_hi": 4125,
+  "ts_lo": 350.0,
+  "ts_hi": 367.3
+ },
+ "BT62": {
+  "cid": 189,
+  "rank_lo": 2188,
+  "rank_hi": 3489,
+  "ts_lo": 305.0,
+  "ts_hi": 323.8
+ },
+ "Centodieci": {
+  "cid": 200,
+  "rank_lo": 3651,
+  "rank_hi": 4843,
+  "ts_lo": 380.0,
+  "ts_hi": 405.2
+ },
+ "i8 Roadster": {
+  "cid": 138,
+  "rank_lo": 715,
+  "rank_hi": 2122,
+  "ts_lo": 250.0,
+  "ts_hi": 275.8
+ },
+ "M Hybrid V8": {
+  "cid": 352,
+  "rank_lo": 2594,
+  "rank_hi": 4057,
+  "ts_lo": 335.0,
+  "ts_hi": 358.0
+ },
+ "Chiron": {
+  "cid": 12,
+  "rank_lo": 3577,
+  "rank_hi": 4755,
+  "ts_lo": 420.0,
+  "ts_hi": 446.0
+ },
+ "Chiron Pur Sport": {
+  "cid": 291,
+  "rank_lo": 3613,
+  "rank_hi": 4821,
+  "ts_lo": 380.0,
+  "ts_hi": 399.7
+ },
+ "Chiron Super Sport 300+": {
+  "cid": 268,
+  "rank_lo": 4242,
+  "rank_hi": 5602,
+  "ts_lo": 490.0,
+  "ts_hi": 512.3
+ },
+ "Divo": {
+  "cid": 140,
+  "rank_lo": 3601,
+  "rank_hi": 4607,
+  "ts_lo": 380.0,
+  "ts_hi": 391.0
+ },
+ "Eb110": {
+  "cid": 201,
+  "rank_lo": 2265,
+  "rank_hi": 3766,
+  "ts_lo": 336.0,
+  "ts_hi": 349.7
+ },
+ "La Voiture Noire": {
+  "cid": 136,
+  "rank_lo": 3819,
+  "rank_hi": 5055,
+  "ts_lo": 420.0,
+  "ts_hi": 446.0
+ },
+ "Mistral": {
+  "cid": 5008,
+  "rank_lo": 3880,
+  "rank_hi": 5096,
+  "ts_lo": 420.0,
+  "ts_hi": 433.0
+ },
+ "M4 GTS": {
+  "cid": 9,
+  "rank_lo": 1307,
+  "rank_hi": 2447,
+  "ts_lo": 305.0,
+  "ts_hi": 329.4
+ },
+ "Tourbillon": {
+  "cid": 5021,
+  "rank_lo": 4556,
+  "rank_hi": 5676,
+  "ts_lo": 446.0,
+  "ts_hi": 498.0
+ },
+ "Veyron 16.4 Grand Sport Vitesse": {
+  "cid": 162,
+  "rank_lo": 3111,
+  "rank_hi": 4411,
+  "ts_lo": 410.0,
+  "ts_hi": 420.0
+ },
+ "MK X Nagari": {
+  "cid": 190,
+  "rank_lo": 1582,
+  "rank_hi": 2854,
+  "ts_lo": 300.0,
+  "ts_hi": 316.4
+ },
+ "Bolide": {
+  "cid": 214,
+  "rank_lo": 4008,
+  "rank_hi": 5385,
+  "ts_lo": 489.0,
+  "ts_hi": 498.0
+ },
+ "Continental GT Speed": {
+  "cid": 199,
+  "rank_lo": 2229,
+  "rank_hi": 3330,
+  "ts_lo": 335.0,
+  "ts_hi": 349.7
+ },
+ "Continental GT3": {
+  "cid": 129,
+  "rank_lo": 1139,
+  "rank_hi": 2781,
+  "ts_lo": 285.0,
+  "ts_hi": 302.5
+ },
+ "Bacalar": {
+  "cid": 128,
+  "rank_lo": 1840,
+  "rank_hi": 3340,
+  "ts_lo": 322.0,
+  "ts_hi": 330.3
+ },
+ "Elytron": {
+  "cid": 376,
+  "rank_lo": 3826,
+  "rank_hi": 5050,
+  "ts_lo": 446.0,
+  "ts_hi": 464.2
+ },
+ "12 Cilindri": {
+  "cid": 368,
+  "rank_lo": 2265,
+  "rank_hi": 4294,
+  "ts_lo": 340.0,
+  "ts_hi": 352.5
+ },
+ "F12 Berlinetta": {
+  "cid": 344,
+  "rank_lo": 2421,
+  "rank_hi": 3950,
+  "ts_lo": 340.0,
+  "ts_hi": 359.0
+ },
+ "P900": {
+  "cid": 284,
+  "rank_lo": 1853,
+  "rank_hi": 3937,
+  "ts_lo": 320.0,
+  "ts_hi": 333.0
+ },
+ "Vayanne": {
+  "cid": 264,
+  "rank_lo": 3844,
+  "rank_hi": 5082,
+  "ts_lo": 420.0,
+  "ts_hi": 440.8
+ },
+ "Grand Sport Halloween Edition": {
+  "cid": 5015,
+  "rank_lo": 2374,
+  "rank_hi": 4112,
+  "ts_lo": 314.0,
+  "ts_hi": 362.6
+ },
+ "C7.R": {
+  "cid": 121,
+  "rank_lo": 1440,
+  "rank_hi": 2836,
+  "ts_lo": 295.0,
+  "ts_hi": 304.4
+ },
+ "21C": {
+  "cid": 306,
+  "rank_lo": 3832,
+  "rank_hi": 5149,
+  "ts_lo": 407.0,
+  "ts_hi": 418.2
+ },
+ "DS E-Tense Performance": {
+  "cid": 5007,
+  "rank_lo": 2275,
+  "rank_hi": 3424,
+  "ts_lo": 290.5,
+  "ts_hi": 322.0
+ },
+ "2013 Challenger SRT8": {
+  "cid": 43,
+  "rank_lo": 799,
+  "rank_hi": 1683,
+  "ts_lo": 292.0,
+  "ts_hi": 310.9
+ },
+ "ZERO1": {
+  "cid": 215,
+  "rank_lo": 3425,
+  "rank_hi": 4602,
+  "ts_lo": 403.0,
+  "ts_hi": 425.2
+ },
+ "499P Modificata": {
+  "cid": 316,
+  "rank_lo": 3277,
+  "rank_hi": 4572,
+  "ts_lo": 340.0,
+  "ts_hi": 360.8
+ },
+ "599XX EVO": {
+  "cid": 134,
+  "rank_lo": 2202,
+  "rank_hi": 3433,
+  "ts_lo": 305.0,
+  "ts_hi": 310.7
+ },
+ "488 GTB": {
+  "cid": 22,
+  "rank_lo": 2071,
+  "rank_hi": 3334,
+  "ts_lo": 330.0,
+  "ts_hi": 349.7
+ },
+ "Challenger 392 HEMI Scat Pack Shaker": {
+  "cid": 18,
+  "rank_lo": 899,
+  "rank_hi": 2152,
+  "ts_lo": 283.0,
+  "ts_hi": 305.3
+ },
+ "812 Superfast": {
+  "cid": 83,
+  "rank_lo": 2643,
+  "rank_hi": 3941,
+  "ts_lo": 340.0,
+  "ts_hi": 355.2
+ },
+ "Daytona SP3": {
+  "cid": 276,
+  "rank_lo": 2356,
+  "rank_hi": 4073,
+  "ts_lo": 340.0,
+  "ts_hi": 349.7
+ },
+ "Enzo Ferrari": {
+  "cid": 133,
+  "rank_lo": 2574,
+  "rank_hi": 4014,
+  "ts_lo": 350.0,
+  "ts_hi": 367.6
+ },
+ "Grand Sport": {
+  "cid": 15,
+  "rank_lo": 2506,
+  "rank_hi": 3906,
+  "ts_lo": 314.0,
+  "ts_hi": 338.0
+ },
+ "P72": {
+  "cid": 254,
+  "rank_lo": 3288,
+  "rank_hi": 4586,
+  "ts_lo": 360.0,
+  "ts_hi": 377.5
+ },
+ "Shelby GR-1": {
+  "cid": 102,
+  "rank_lo": 1618,
+  "rank_hi": 2642,
+  "ts_lo": 305.0,
+  "ts_hi": 323.8
+ },
+ "ZR1": {
+  "cid": 99,
+  "rank_lo": 2672,
+  "rank_hi": 4031,
+  "ts_lo": 341.0,
+  "ts_hi": 357.9
+ },
+ "Team Fordzilla P1": {
+  "cid": 5004,
+  "rank_lo": 3325,
+  "rank_hi": 4709,
+  "ts_lo": 358.0,
+  "ts_hi": 388.6
+ },
+ "DS Survolt": {
+  "cid": 341,
+  "rank_lo": 1538,
+  "rank_hi": 2796,
+  "ts_lo": 276.0,
+  "ts_hi": 293.3
+ },
+ "Bailey Blade GT1": {
+  "cid": 120,
+  "rank_lo": 3345,
+  "rank_hi": 4759,
+  "ts_lo": 434.0,
+  "ts_hi": 451.2
+ },
+ "Viper GTS": {
+  "cid": 52,
+  "rank_lo": 2200,
+  "rank_hi": 3295,
+  "ts_lo": 340.0,
+  "ts_hi": 354.9
+ },
+ "D8 GTO Individual Series": {
+  "cid": 227,
+  "rank_lo": 1524,
+  "rank_hi": 2991,
+  "ts_lo": 286.0,
+  "ts_hi": 309.0
+ },
+ "Viper ACR": {
+  "cid": 19,
+  "rank_lo": 1553,
+  "rank_hi": 2827,
+  "ts_lo": 285.0,
+  "ts_hi": 306.2
+ },
+ "ME412": {
+  "cid": 213,
+  "rank_lo": 3165,
+  "rank_hi": 4241,
+  "ts_lo": 385.8,
+  "ts_hi": 400.6
+ },
+ "Cien Concept": {
+  "cid": 16,
+  "rank_lo": 1937,
+  "rank_hi": 3155,
+  "ts_lo": 350.0,
+  "ts_hi": 370.1
+ },
+ "Camaro LT": {
+  "cid": 14,
+  "rank_lo": 556,
+  "rank_hi": 1546,
+  "ts_lo": 265.0,
+  "ts_hi": 286.8
+ },
+ "Camaro ZL 50th Anniversary Edition": {
+  "cid": 13,
+  "rank_lo": 984,
+  "rank_hi": 1971,
+  "ts_lo": 250.0,
+  "ts_hi": 275.0
+ },
+ "Stingray": {
+  "cid": 122,
+  "rank_lo": 2176,
+  "rank_hi": 3788,
+  "ts_lo": 312.0,
+  "ts_hi": 329.4
+ },
+ "GTE": {
+  "cid": 168,
+  "rank_lo": 2141,
+  "rank_hi": 3434,
+  "ts_lo": 332.0,
+  "ts_hi": 347.9
+ },
+ "Sixteen": {
+  "cid": 269,
+  "rank_lo": 4071,
+  "rank_hi": 5254,
+  "ts_lo": 552.0,
+  "ts_hi": 557.0
+ },
+ "DS E-Tense": {
+  "cid": 40,
+  "rank_lo": 799,
+  "rank_hi": 1976,
+  "ts_lo": 250.0,
+  "ts_hi": 272.9
+ },
+ "W70": {
+  "cid": 20,
+  "rank_lo": 1567,
+  "rank_hi": 2633,
+  "ts_lo": 313.0,
+  "ts_hi": 332.1
+ },
+ "296 GTB": {
+  "cid": 273,
+  "rank_lo": 2310,
+  "rank_hi": 4009,
+  "ts_lo": 330.0,
+  "ts_hi": 342.8
+ },
+ "488 Challenge EVO": {
+  "cid": 135,
+  "rank_lo": 2141,
+  "rank_hi": 4095,
+  "ts_lo": 330.0,
+  "ts_hi": 349.0
+ },
+ "F40": {
+  "cid": 132,
+  "rank_lo": 2054,
+  "rank_hi": 3343,
+  "ts_lo": 324.0,
+  "ts_hi": 335.4
+ },
+ "F50": {
+  "cid": 225,
+  "rank_lo": 1691,
+  "rank_hi": 2838,
+  "ts_lo": 325.0,
+  "ts_hi": 340.4
+ },
+ "F8 Tributo": {
+  "cid": 131,
+  "rank_lo": 3007,
+  "rank_hi": 4313,
+  "ts_lo": 340.0,
+  "ts_hi": 362.6
+ },
+ "FXX K": {
+  "cid": 24,
+  "rank_lo": 2804,
+  "rank_hi": 3821,
+  "ts_lo": 350.0,
+  "ts_hi": 364.5
+ },
+ "F12tdf": {
+  "cid": 21,
+  "rank_lo": 2356,
+  "rank_hi": 3705,
+  "ts_lo": 340.0,
+  "ts_hi": 363.0
+ },
+ "J50": {
+  "cid": 66,
+  "rank_lo": 2141,
+  "rank_hi": 3229,
+  "ts_lo": 333.0,
+  "ts_hi": 352.5
+ },
+ "LaFerrari": {
+  "cid": 23,
+  "rank_lo": 2321,
+  "rank_hi": 3445,
+  "ts_lo": 350.0,
+  "ts_hi": 366.4
+ },
+ "LaFerrari Aperta": {
+  "cid": 84,
+  "rank_lo": 2998,
+  "rank_hi": 4293,
+  "ts_lo": 350.0,
+  "ts_hi": 368.2
+ },
+ "Monza SP1": {
+  "cid": 204,
+  "rank_lo": 1921,
+  "rank_hi": 3334,
+  "ts_lo": 300.0,
+  "ts_hi": 322.0
+ },
+ "SF90 Stradale": {
+  "cid": 130,
+  "rank_lo": 2928,
+  "rank_hi": 4550,
+  "ts_lo": 340.0,
+  "ts_hi": 362.4
+ },
+ "SF90 XX Stradale": {
+  "cid": 296,
+  "rank_lo": 2855,
+  "rank_hi": 4286,
+  "ts_lo": 349.0,
+  "ts_hi": 362.7
+ },
+ "Roma": {
+  "cid": 152,
+  "rank_lo": 1872,
+  "rank_hi": 3061,
+  "ts_lo": 320.0,
+  "ts_hi": 333.1
+ },
+ "GT CNY Edition": {
+  "cid": 297,
+  "rank_lo": 2743,
+  "rank_hi": 4093,
+  "ts_lo": 355.3,
+  "ts_hi": 368.2
+ },
+ "GT MK II": {
+  "cid": 123,
+  "rank_lo": 1970,
+  "rank_hi": 3198,
+  "ts_lo": 300.0,
+  "ts_hi": 317.3
+ },
+ "GT MK IV": {
+  "cid": 330,
+  "rank_lo": 2328,
+  "rank_hi": 4262,
+  "ts_lo": 350.0,
+  "ts_hi": 362.6
+ },
+ "Mustang Mach-E1400": {
+  "cid": 267,
+  "rank_lo": 1538,
+  "rank_hi": 3097,
+  "ts_lo": 290.0,
+  "ts_hi": 302.5
+ },
+ "Mustang RTR Spec 5 10th Anniversary": {
+  "cid": 295,
+  "rank_lo": 1840,
+  "rank_hi": 3025,
+  "ts_lo": 322.0,
+  "ts_hi": 336.8
+ },
+ "Mustang RTR Spec 5-FD": {
+  "cid": 353,
+  "rank_lo": 3525,
+  "rank_hi": 4693,
+  "ts_lo": 403.0,
+  "ts_hi": 416.3
+ },
+ "Shelby GT350R": {
+  "cid": 25,
+  "rank_lo": 1121,
+  "rank_hi": 2531,
+  "ts_lo": 276.0,
+  "ts_hi": 302.5
+ },
+ "Shelby Super Snake": {
+  "cid": 313,
+  "rank_lo": 3046,
+  "rank_hi": 4350,
+  "ts_lo": 346.8,
+  "ts_hi": 365.4
+ },
+ "Gen 2 Asphalt edition": {
+  "cid": 88,
+  "rank_lo": 1987,
+  "rank_hi": 4019,
+  "ts_lo": 280.0,
+  "ts_hi": 328.1
+ },
+ "Gen 3 EVO Championship Edition": {
+  "cid": 333,
+  "rank_lo": 2468,
+  "rank_hi": 4082,
+  "ts_lo": 322.0,
+  "ts_hi": 347.8
+ },
+ "N vision 74": {
+  "cid": 326,
+  "rank_lo": 3143,
+  "rank_hi": 4579,
+  "ts_lo": 390.0,
+  "ts_hi": 406.1
+ },
+ "CC850": {
+  "cid": 261,
+  "rank_lo": 3919,
+  "rank_hi": 5146,
+  "ts_lo": 465.0,
+  "ts_hi": 479.8
+ },
+ "Jesko Absolut": {
+  "cid": 5002,
+  "rank_lo": 4450,
+  "rank_hi": 5664,
+  "ts_lo": 531.0,
+  "ts_hi": 550.0
+ },
+ "Agera RS": {
+  "cid": 212,
+  "rank_lo": 3734,
+  "rank_hi": 4940,
+  "ts_lo": 447.2,
+  "ts_hi": 488.9
+ },
+ "Asterion": {
+  "cid": 34,
+  "rank_lo": 1809,
+  "rank_hi": 2983,
+  "ts_lo": 320.0,
+  "ts_hi": 338.6
+ },
+ "Centenario": {
+  "cid": 31,
+  "rank_lo": 2702,
+  "rank_hi": 3696,
+  "ts_lo": 350.0,
+  "ts_hi": 365.5
+ },
+ "Vulcano Spyder": {
+  "cid": 369,
+  "rank_lo": 3673,
+  "rank_hi": 4868,
+  "ts_lo": 415.0,
+  "ts_hi": 432.4
+ },
+ "DaVinci": {
+  "cid": 147,
+  "rank_lo": 848,
+  "rank_hi": 2210,
+  "ts_lo": 250.0,
+  "ts_hi": 281.3
+ },
+ "Evo37": {
+  "cid": 322,
+  "rank_lo": 1545,
+  "rank_hi": 3108,
+  "ts_lo": 280.0,
+  "ts_hi": 299.8
+ },
+ "CCXR": {
+  "cid": 245,
+  "rank_lo": 3782,
+  "rank_hi": 4998,
+  "ts_lo": 400.0,
+  "ts_hi": 413.5
+ },
+ "XE SV Project 8": {
+  "cid": 209,
+  "rank_lo": 2012,
+  "rank_hi": 3289,
+  "ts_lo": 322.0,
+  "ts_hi": 340.5
+ },
+ "Regera": {
+  "cid": 30,
+  "rank_lo": 3460,
+  "rank_hi": 4616,
+  "ts_lo": 440.0,
+  "ts_hi": 459.0
+ },
+ "C-X75": {
+  "cid": 125,
+  "rank_lo": 2688,
+  "rank_hi": 3900,
+  "ts_lo": 354.0,
+  "ts_hi": 371.0
+ },
+ "Ioniq 5 n": {
+  "cid": 327,
+  "rank_lo": 1034,
+  "rank_hi": 2559,
+  "ts_lo": 260.0,
+  "ts_hi": 277.6
+ },
+ "XJR-9": {
+  "cid": 246,
+  "rank_lo": 3261,
+  "rank_hi": 4438,
+  "ts_lo": 394.0,
+  "ts_hi": 401.5
+ },
+ "Venom F5": {
+  "cid": 160,
+  "rank_lo": 3881,
+  "rank_hi": 5128,
+  "ts_lo": 500.0,
+  "ts_hi": 513.6
+ },
+ "007S": {
+  "cid": 172,
+  "rank_lo": 2653,
+  "rank_hi": 4192,
+  "ts_lo": 340.0,
+  "ts_hi": 360.8
+ },
+ "F-Type SVR": {
+  "cid": 29,
+  "rank_lo": 1454,
+  "rank_hi": 2487,
+  "ts_lo": 322.0,
+  "ts_hi": 343.2
+ },
+ "XJR-15": {
+  "cid": 256,
+  "rank_lo": 1840,
+  "rank_hi": 3244,
+  "ts_lo": 307.0,
+  "ts_hi": 322.0
+ },
+ "Jesko": {
+  "cid": 86,
+  "rank_lo": 3637,
+  "rank_hi": 4824,
+  "ts_lo": 484.0,
+  "ts_hi": 498.0
+ },
+ "Autentica": {
+  "cid": 292,
+  "rank_lo": 2855,
+  "rank_hi": 3884,
+  "ts_lo": 355.0,
+  "ts_hi": 368.2
+ },
+ "Vulcano Titanium": {
+  "cid": 28,
+  "rank_lo": 2907,
+  "rank_hi": 3957,
+  "ts_lo": 370.0,
+  "ts_hi": 383.0
+ },
+ "GT65": {
+  "cid": 321,
+  "rank_lo": 2319,
+  "rank_hi": 4127,
+  "ts_lo": 355.0,
+  "ts_hi": 372.8
+ },
+ "Sorpasso GT3": {
+  "cid": 243,
+  "rank_lo": 3277,
+  "rank_hi": 4398,
+  "ts_lo": 382.2,
+  "ts_hi": 392.3
+ },
+ "Venom F5 Revolution": {
+  "cid": 5018,
+  "rank_lo": 4339,
+  "rank_hi": 5656,
+  "ts_lo": 492.8,
+  "ts_hi": 540.1
+ },
+ "Inferno": {
+  "cid": 142,
+  "rank_lo": 3549,
+  "rank_hi": 4725,
+  "ts_lo": 395.0,
+  "ts_hi": 414.5
+ },
+ "AKYLONE": {
+  "cid": 70,
+  "rank_lo": 3013,
+  "rank_hi": 4323,
+  "ts_lo": 354.0,
+  "ts_hi": 373.8
+ },
+ "Locus Plethore LC750": {
+  "cid": 318,
+  "rank_lo": 3746,
+  "rank_hi": 4955,
+  "ts_lo": 398.0,
+  "ts_hi": 416.3
+ },
+ "Project Black S": {
+  "cid": 143,
+  "rank_lo": 729,
+  "rank_hi": 2371,
+  "ts_lo": 246.2,
+  "ts_hi": 285.0
+ },
+ "Motion": {
+  "cid": 242,
+  "rank_lo": 2106,
+  "rank_hi": 3393,
+  "ts_lo": 322.0,
+  "ts_hi": 340.5
+ },
+ "Zerouno": {
+  "cid": 101,
+  "rank_lo": 2004,
+  "rank_hi": 3295,
+  "ts_lo": 330.0,
+  "ts_hi": 342.3
+ },
+ "Venom GT": {
+  "cid": 5013,
+  "rank_lo": 3715,
+  "rank_hi": 4963,
+  "ts_lo": 435.1,
+  "ts_hi": 472.0
+ },
+ "XKR-S GT": {
+  "cid": 315,
+  "rank_lo": 1346,
+  "rank_hi": 2700,
+  "ts_lo": 300.0,
+  "ts_hi": 323.8
+ },
+ "G60": {
+  "cid": 82,
+  "rank_lo": 1181,
+  "rank_hi": 2632,
+  "ts_lo": 275.0,
+  "ts_hi": 292.4
+ },
+ "003S": {
+  "cid": 49,
+  "rank_lo": 2211,
+  "rank_hi": 3534,
+  "ts_lo": 350.0,
+  "ts_hi": 371.0
+ },
+ "Civic Type-R": {
+  "cid": 107,
+  "rank_lo": 1243,
+  "rank_hi": 2627,
+  "ts_lo": 271.0,
+  "ts_hi": 286.8
+ },
+ "004C": {
+  "cid": 210,
+  "rank_lo": 1524,
+  "rank_hi": 2840,
+  "ts_lo": 298.0,
+  "ts_hi": 312.7
+ },
+ "XJ220S TWR": {
+  "cid": 181,
+  "rank_lo": 3089,
+  "rank_hi": 4175,
+  "ts_lo": 368.0,
+  "ts_hi": 384.9
+ },
+ "Gemera": {
+  "cid": 178,
+  "rank_lo": 3856,
+  "rank_hi": 5092,
+  "ts_lo": 400.0,
+  "ts_hi": 414.5
+ },
+ "One:1": {
+  "cid": 354,
+  "rank_lo": 3841,
+  "rank_hi": 5076,
+  "ts_lo": 440.0,
+  "ts_hi": 456.4
+ },
+ "X-Bow GTX": {
+  "cid": 240,
+  "rank_lo": 662,
+  "rank_hi": 1738,
+  "ts_lo": 231.0,
+  "ts_hi": 249.8
+ },
+ "Aventador J": {
+  "cid": 80,
+  "rank_lo": 2804,
+  "rank_hi": 4002,
+  "ts_lo": 350.0,
+  "ts_hi": 364.4
+ },
+ "Aventador SVJ Roadster": {
+  "cid": 161,
+  "rank_lo": 2274,
+  "rank_hi": 4080,
+  "ts_lo": 351.0,
+  "ts_hi": 366.4
+ },
+ "Countach 25th Anniversary": {
+  "cid": 196,
+  "rank_lo": 1063,
+  "rank_hi": 2613,
+  "ts_lo": 293.0,
+  "ts_hi": 306.2
+ },
+ "Countach LPI 800-4": {
+  "cid": 191,
+  "rank_lo": 3266,
+  "rank_hi": 4571,
+  "ts_lo": 355.0,
+  "ts_hi": 375.6
+ },
+ "Diablo GT": {
+  "cid": 195,
+  "rank_lo": 2211,
+  "rank_hi": 3869,
+  "ts_lo": 338.0,
+  "ts_hi": 349.7
+ },
+ "Egoista": {
+  "cid": 32,
+  "rank_lo": 3122,
+  "rank_hi": 4213,
+  "ts_lo": 350.0,
+  "ts_hi": 368.0
+ },
+ "Essenza SCV12": {
+  "cid": 150,
+  "rank_lo": 2506,
+  "rank_hi": 4036,
+  "ts_lo": 315.0,
+  "ts_hi": 343.2
+ },
+ "Huracan STO": {
+  "cid": 275,
+  "rank_lo": 1987,
+  "rank_hi": 3236,
+  "ts_lo": 310.0,
+  "ts_hi": 321.5
+ },
+ "Miura Concept": {
+  "cid": 194,
+  "rank_lo": 1864,
+  "rank_hi": 3688,
+  "ts_lo": 330.0,
+  "ts_hi": 347.9
+ },
+ "Gallardo LP 560-4": {
+  "cid": 114,
+  "rank_lo": 2301,
+  "rank_hi": 3706,
+  "ts_lo": 325.0,
+  "ts_hi": 332.3
+ },
+ "Revuelto": {
+  "cid": 244,
+  "rank_lo": 2365,
+  "rank_hi": 4375,
+  "ts_lo": 350.0,
+  "ts_hi": 362.7
+ },
+ "SC18": {
+  "cid": 118,
+  "rank_lo": 2992,
+  "rank_hi": 4079,
+  "ts_lo": 350.0,
+  "ts_hi": 356.6
+ },
+ "SC63": {
+  "cid": 282,
+  "rank_lo": 2319,
+  "rank_hi": 4062,
+  "ts_lo": 340.0,
+  "ts_hi": 355.3
+ },
+ "Invencible": {
+  "cid": 272,
+  "rank_lo": 2319,
+  "rank_hi": 4091,
+  "ts_lo": 322.0,
+  "ts_hi": 342.3
+ },
+ "SC20": {
+  "cid": 165,
+  "rank_lo": 2907,
+  "rank_hi": 4326,
+  "ts_lo": 353.4,
+  "ts_hi": 372.8
+ },
+ "Sesto Elemento": {
+  "cid": 192,
+  "rank_lo": 2029,
+  "rank_hi": 4183,
+  "ts_lo": 325.0,
+  "ts_hi": 348.8
+ },
+ "Chevrolet Corvette C8 Stingray": {
+  "cid": 323,
+  "rank_lo": 2200,
+  "rank_hi": 3647,
+  "ts_lo": 312.0,
+  "ts_hi": 329.4
+ },
+ "765LT": {
+  "cid": 202,
+  "rank_lo": 2430,
+  "rank_hi": 3651,
+  "ts_lo": 330.0,
+  "ts_hi": 351.6
+ },
+ "Elva": {
+  "cid": 164,
+  "rank_lo": 2211,
+  "rank_hi": 3530,
+  "ts_lo": 326.0,
+  "ts_hi": 340.5
+ },
+ "McLaren GT": {
+  "cid": 182,
+  "rank_lo": 2288,
+  "rank_hi": 3432,
+  "ts_lo": 326.0,
+  "ts_hi": 340.5
+ },
+ "2022 Showcar Vision AMG": {
+  "cid": 259,
+  "rank_lo": 1889,
+  "rank_hi": 3288,
+  "ts_lo": 321.0,
+  "ts_hi": 336.8
+ },
+ "Terzo Millennio": {
+  "cid": 63,
+  "rank_lo": 3288,
+  "rank_hi": 4400,
+  "ts_lo": 379.0,
+  "ts_hi": 396.0
+ },
+ "Solus GT": {
+  "cid": 257,
+  "rank_lo": 2506,
+  "rank_hi": 4075,
+  "ts_lo": 322.0,
+  "ts_hi": 336.8
+ },
+ "Emira": {
+  "cid": 184,
+  "rank_lo": 1109,
+  "rank_hi": 2612,
+  "ts_lo": 290.0,
+  "ts_hi": 309.0
+ },
+ "McLAREN SENNA GTR": {
+  "cid": 153,
+  "rank_lo": 2594,
+  "rank_hi": 3846,
+  "ts_lo": 335.0,
+  "ts_hi": 351.6
+ },
+ "MC12": {
+  "cid": 241,
+  "rank_lo": 2141,
+  "rank_hi": 3100,
+  "ts_lo": 330.0,
+  "ts_hi": 344.2
+ },
+ "MC20": {
+  "cid": 265,
+  "rank_lo": 2393,
+  "rank_hi": 3772,
+  "ts_lo": 325.0,
+  "ts_hi": 336.8
+ },
+ "SENNA": {
+  "cid": 94,
+  "rank_lo": 2855,
+  "rank_hi": 4407,
+  "ts_lo": 340.0,
+  "ts_hi": 360.8
+ },
+ "Senna GTR": {
+  "cid": 183,
+  "rank_lo": 2783,
+  "rank_hi": 4025,
+  "ts_lo": 335.0,
+  "ts_hi": 360.8
+ },
+ "Speedtail": {
+  "cid": 126,
+  "rank_lo": 3402,
+  "rank_hi": 4590,
+  "ts_lo": 403.0,
+  "ts_hi": 418.2
+ },
+ "ALFIERI": {
+  "cid": 72,
+  "rank_lo": 1218,
+  "rank_hi": 3209,
+  "ts_lo": 305.0,
+  "ts_hi": 339.5
+ },
+ "BMW M4 GT3 EVO": {
+  "cid": 370,
+  "rank_lo": 2487,
+  "rank_hi": 3896,
+  "ts_lo": 320.0,
+  "ts_hi": 334.9
+ },
+ "Ferrari FXX K": {
+  "cid": 348,
+  "rank_lo": 2382,
+  "rank_hi": 3522,
+  "ts_lo": 350.0,
+  "ts_hi": 366.4
+ },
+ "Bugatti Chiron Pur Sport": {
+  "cid": 363,
+  "rank_lo": 3589,
+  "rank_hi": 4764,
+  "ts_lo": 380.0,
+  "ts_hi": 396.0
+ },
+ "Furai": {
+  "cid": 103,
+  "rank_lo": 1372,
+  "rank_hi": 3408,
+  "ts_lo": 290.0,
+  "ts_hi": 307.2
+ },
+ "Elise Sprint 220": {
+  "cid": 64,
+  "rank_lo": 587,
+  "rank_hi": 2363,
+  "ts_lo": 234.0,
+  "ts_hi": 273.9
+ },
+ "Veneno": {
+  "cid": 115,
+  "rank_lo": 3067,
+  "rank_hi": 4142,
+  "ts_lo": 355.0,
+  "ts_hi": 371.9
+ },
+ "MC20 GT2": {
+  "cid": 287,
+  "rank_lo": 2211,
+  "rank_hi": 3832,
+  "ts_lo": 323.0,
+  "ts_hi": 337.7
+ },
+ "Evantra Millecavalli": {
+  "cid": 149,
+  "rank_lo": 3460,
+  "rank_hi": 4790,
+  "ts_lo": 403.0,
+  "ts_hi": 413.5
+ },
+ "570S SPIDER": {
+  "cid": 69,
+  "rank_lo": 2319,
+  "rank_hi": 4135,
+  "ts_lo": 356.0,
+  "ts_hi": 379.7
+ },
+ "Hyper Coupe": {
+  "cid": 177,
+  "rank_lo": 3210,
+  "rank_hi": 4564,
+  "ts_lo": 370.0,
+  "ts_hi": 384.9
+ },
+ "Electrified Sport Concept": {
+  "cid": 329,
+  "rank_lo": 3271,
+  "rank_hi": 4565,
+  "ts_lo": 363.0,
+  "ts_hi": 381.2
+ },
+ "Temerario": {
+  "cid": 302,
+  "rank_lo": 2337,
+  "rank_hi": 4372,
+  "ts_lo": 343.0,
+  "ts_hi": 368.2
+ },
+ "Emeya": {
+  "cid": 355,
+  "rank_lo": 899,
+  "rank_hi": 2402,
+  "ts_lo": 250.0,
+  "ts_hi": 279.4
+ },
+ "Evora Sport 410": {
+  "cid": 44,
+  "rank_lo": 1086,
+  "rank_hi": 2123,
+  "ts_lo": 300.0,
+  "ts_hi": 320.1
+ },
+ "600LT Spider": {
+  "cid": 226,
+  "rank_lo": 2393,
+  "rank_hi": 4075,
+  "ts_lo": 324.0,
+  "ts_hi": 342.3
+ },
+ "E-R9": {
+  "cid": 286,
+  "rank_lo": 2384,
+  "rank_hi": 4308,
+  "ts_lo": 353.4,
+  "ts_hi": 369.0
+ },
+ "Aston Martin Valkyrie": {
+  "cid": 335,
+  "rank_lo": 2663,
+  "rank_hi": 3920,
+  "ts_lo": 360.0,
+  "ts_hi": 373.8
+ },
+ "650S GT3": {
+  "cid": 219,
+  "rank_lo": 2988,
+  "rank_hi": 4266,
+  "ts_lo": 340.0,
+  "ts_hi": 359.0
+ },
+ "Lamborghini Revuelto": {
+  "cid": 347,
+  "rank_lo": 2184,
+  "rank_hi": 4264,
+  "ts_lo": 350.0,
+  "ts_hi": 370.1
+ },
+ "Evija": {
+  "cid": 106,
+  "rank_lo": 2229,
+  "rank_hi": 4432,
+  "ts_lo": 350.0,
+  "ts_hi": 370.5
+ },
+ "Artura": {
+  "cid": 266,
+  "rank_lo": 2021,
+  "rank_hi": 3280,
+  "ts_lo": 330.0,
+  "ts_hi": 338.6
+ },
+ "F1LM": {
+  "cid": 100,
+  "rank_lo": 2319,
+  "rank_hi": 4301,
+  "ts_lo": 362.0,
+  "ts_hi": 379.3
+ },
+ "Sabre": {
+  "cid": 311,
+  "rank_lo": 2629,
+  "rank_hi": 4173,
+  "ts_lo": 351.0,
+  "ts_hi": 364.5
+ },
+ "AMG GT Black Series": {
+  "cid": 224,
+  "rank_lo": 2347,
+  "rank_hi": 3513,
+  "ts_lo": 325.0,
+  "ts_hi": 336.8
+ },
+ "C 63 AMG DTM": {
+  "cid": 358,
+  "rank_lo": 2141,
+  "rank_hi": 3773,
+  "ts_lo": 306.0,
+  "ts_hi": 323.8
+ },
+ "Mercedes-AMG One": {
+  "cid": 336,
+  "rank_lo": 2907,
+  "rank_hi": 4571,
+  "ts_lo": 352.0,
+  "ts_hi": 378.0
+ },
+ "AMG GT S": {
+  "cid": 36,
+  "rank_lo": 1193,
+  "rank_hi": 2281,
+  "ts_lo": 310.0,
+  "ts_hi": 332.1
+ },
+ "Biome 2010": {
+  "cid": 5020,
+  "rank_lo": 2906,
+  "rank_hi": 4078,
+  "ts_lo": 323.8,
+  "ts_hi": 338.6
+ },
+ "Silver Lightning": {
+  "cid": 5009,
+  "rank_lo": 4363,
+  "rank_hi": 5344,
+  "ts_lo": 420.0,
+  "ts_hi": 446.0
+ },
+ "Vision One-Eleven": {
+  "cid": 304,
+  "rank_lo": 3299,
+  "rank_hi": 4600,
+  "ts_lo": 364.5,
+  "ts_hi": 383.0
+ },
+ "SuperGT": {
+  "cid": 342,
+  "rank_lo": 3944,
+  "rank_hi": 5169,
+  "ts_lo": 491.0,
+  "ts_hi": 508.4
+ },
+ "C11": {
+  "cid": 366,
+  "rank_lo": 3111,
+  "rank_hi": 4506,
+  "ts_lo": 400.0,
+  "ts_hi": 416.3
+ },
+ "CLK-GTR": {
+  "cid": 250,
+  "rank_lo": 2080,
+  "rank_hi": 3083,
+  "ts_lo": 320.0,
+  "ts_hi": 334.0
+ },
+ "Nilu": {
+  "cid": 364,
+  "rank_lo": 3651,
+  "rank_hi": 5003,
+  "ts_lo": 400.0,
+  "ts_hi": 433.0
+ },
+ "EP9": {
+  "cid": 145,
+  "rank_lo": 2113,
+  "rank_hi": 4571,
+  "ts_lo": 313.0,
+  "ts_hi": 379.3
+ },
+ "EP9 Anniversary Edition": {
+  "cid": 5023,
+  "rank_lo": 3458,
+  "rank_hi": 4501,
+  "ts_lo": 313.0,
+  "ts_hi": 353.0
+ },
+ "370Z Neon Edition": {
+  "cid": 5001,
+  "rank_lo": 820,
+  "rank_hi": 3121,
+  "ts_lo": 250.0,
+  "ts_hi": 306.2
+ },
+ "370Z Nismo": {
+  "cid": 38,
+  "rank_lo": 620,
+  "rank_hi": 1662,
+  "ts_lo": 250.0,
+  "ts_hi": 271.1
+ },
+ "GTR-50 Italdesign": {
+  "cid": 173,
+  "rank_lo": 2089,
+  "rank_hi": 4127,
+  "ts_lo": 330.0,
+  "ts_hi": 351.6
+ },
+ "SLR McLaren": {
+  "cid": 79,
+  "rank_lo": 2097,
+  "rank_hi": 3389,
+  "ts_lo": 334.0,
+  "ts_hi": 355.3
+ },
+ "GT-R Neon Edition": {
+  "cid": 5006,
+  "rank_lo": 2800,
+  "rank_hi": 4201,
+  "ts_lo": 325.6,
+  "ts_hi": 360.8
+ },
+ "GT-R Nismo": {
+  "cid": 51,
+  "rank_lo": 2083,
+  "rank_hi": 3144,
+  "ts_lo": 315.0,
+  "ts_hi": 332.0
+ },
+ "918 Spyder Asphalt Edition": {
+  "cid": 372,
+  "rank_lo": 3154,
+  "rank_hi": 4252,
+  "ts_lo": 385.0,
+  "ts_hi": 403.4
+ },
+ "911 50 years porsche design": {
+  "cid": 319,
+  "rank_lo": 1832,
+  "rank_hi": 3210,
+  "ts_lo": 300.0,
+  "ts_hi": 313.6
+ },
+ "911 Targa 4S": {
+  "cid": 85,
+  "rank_lo": 1063,
+  "rank_hi": 2571,
+  "ts_lo": 303.0,
+  "ts_hi": 316.4
+ },
+ "918 Spyder": {
+  "cid": 53,
+  "rank_lo": 2843,
+  "rank_hi": 4114,
+  "ts_lo": 345.0,
+  "ts_hi": 364.5
+ },
+ "Huayra R": {
+  "cid": 203,
+  "rank_lo": 2356,
+  "rank_hi": 4259,
+  "ts_lo": 360.0,
+  "ts_hi": 378.4
+ },
+ "Codalunga": {
+  "cid": 5022,
+  "rank_lo": 3367,
+  "rank_hi": 4647,
+  "ts_lo": 370.0,
+  "ts_hi": 401.5
+ },
+ "H2 Speed": {
+  "cid": 46,
+  "rank_lo": 1685,
+  "rank_hi": 3026,
+  "ts_lo": 300.0,
+  "ts_hi": 320.1
+ },
+ "R390 GT1": {
+  "cid": 208,
+  "rank_lo": 2283,
+  "rank_hi": 3627,
+  "ts_lo": 354.0,
+  "ts_hi": 375.6
+ },
+ "M600 Speedster": {
+  "cid": 258,
+  "rank_lo": 3154,
+  "rank_hi": 4464,
+  "ts_lo": 361.0,
+  "ts_hi": 377.5
+ },
+ "9x8": {
+  "cid": 216,
+  "rank_lo": 2794,
+  "rank_hi": 4172,
+  "ts_lo": 330.0,
+  "ts_hi": 346.0
+ },
+ "Onyx": {
+  "cid": 141,
+  "rank_lo": 2855,
+  "rank_hi": 4026,
+  "ts_lo": 360.0,
+  "ts_hi": 366.8
+ },
+ "Huayra BC": {
+  "cid": 54,
+  "rank_lo": 2983,
+  "rank_hi": 4292,
+  "ts_lo": 350.0,
+  "ts_hi": 367.2
+ },
+ "Zonda R": {
+  "cid": 176,
+  "rank_lo": 2603,
+  "rank_hi": 4164,
+  "ts_lo": 353.0,
+  "ts_hi": 370.1
+ },
+ "718 Cayman": {
+  "cid": 41,
+  "rank_lo": 1006,
+  "rank_hi": 2344,
+  "ts_lo": 275.0,
+  "ts_hi": 297.9
+ },
+ "718 Cayman GT4 Clubsport": {
+  "cid": 108,
+  "rank_lo": 1889,
+  "rank_hi": 3415,
+  "ts_lo": 304.0,
+  "ts_hi": 316.0
+ },
+ "Teorema": {
+  "cid": 314,
+  "rank_lo": 3154,
+  "rank_hi": 4473,
+  "ts_lo": 401.5,
+  "ts_hi": 425.2
+ },
+ "911 GT3 RS": {
+  "cid": 93,
+  "rank_lo": 1809,
+  "rank_hi": 4019,
+  "ts_lo": 312.0,
+  "ts_hi": 342.3
+ },
+ "917 Living Legend": {
+  "cid": 374,
+  "rank_lo": 3481,
+  "rank_hi": 4791,
+  "ts_lo": 362.6,
+  "ts_hi": 384.8
+ },
+ "919 Street": {
+  "cid": 373,
+  "rank_lo": 3322,
+  "rank_hi": 4628,
+  "ts_lo": 360.0,
+  "ts_hi": 376.1
+ },
+ "935 (2019)": {
+  "cid": 251,
+  "rank_lo": 2928,
+  "rank_hi": 4229,
+  "ts_lo": 340.0,
+  "ts_hi": 353.4
+ },
+ "Zonda Cinque": {
+  "cid": 343,
+  "rank_lo": 2283,
+  "rank_hi": 4105,
+  "ts_lo": 351.0,
+  "ts_hi": 371.9
+ },
+ "Zonda HP Barchetta": {
+  "cid": 163,
+  "rank_lo": 2506,
+  "rank_hi": 3674,
+  "ts_lo": 338.0,
+  "ts_hi": 351.6
+ },
+ "911 Carrera RS 3.8": {
+  "cid": 283,
+  "rank_lo": 599,
+  "rank_hi": 2540,
+  "ts_lo": 270.0,
+  "ts_hi": 305.3
+ },
+ "911 GT1 Evolution": {
+  "cid": 112,
+  "rank_lo": 1625,
+  "rank_hi": 3049,
+  "ts_lo": 310.0,
+  "ts_hi": 347.2
+ },
+ "Boxster 25th": {
+  "cid": 218,
+  "rank_lo": 920,
+  "rank_hi": 1985,
+  "ts_lo": 288.0,
+  "ts_hi": 299.8
+ },
+ "Carrera GT": {
+  "cid": 110,
+  "rank_lo": 2506,
+  "rank_hi": 4010,
+  "ts_lo": 330.0,
+  "ts_hi": 346.3
+ },
+ "GT3 RS 2023": {
+  "cid": 5014,
+  "rank_lo": 3024,
+  "rank_hi": 4621,
+  "ts_lo": 296.2,
+  "ts_hi": 367.6
+ },
+ "Mission R": {
+  "cid": 293,
+  "rank_lo": 1817,
+  "rank_hi": 3229,
+  "ts_lo": 300.0,
+  "ts_hi": 313.6
+ },
+ "Panamera Turbo S": {
+  "cid": 252,
+  "rank_lo": 2283,
+  "rank_hi": 3403,
+  "ts_lo": 315.0,
+  "ts_hi": 327.5
+ },
+ "Taycan Turbo S": {
+  "cid": 111,
+  "rank_lo": 1274,
+  "rank_hi": 2704,
+  "ts_lo": 260.0,
+  "ts_hi": 281.2
+ },
+ "Z GT4": {
+  "cid": 332,
+  "rank_lo": 2365,
+  "rank_hi": 4098,
+  "ts_lo": 335.0,
+  "ts_hi": 346.0
+ },
+ "Bohema": {
+  "cid": 320,
+  "rank_lo": 2063,
+  "rank_hi": 3553,
+  "ts_lo": 300.0,
+  "ts_hi": 317.3
+ },
+ "911 GT2 RS Clubsport": {
+  "cid": 109,
+  "rank_lo": 2702,
+  "rank_hi": 4286,
+  "ts_lo": 340.0,
+  "ts_hi": 359.0
+ },
+ "911 GT3 R RENNSPORT": {
+  "cid": 375,
+  "rank_lo": 2106,
+  "rank_hi": 3546,
+  "ts_lo": 310.0,
+  "ts_hi": 323.8
+ },
+ "Imola": {
+  "cid": 148,
+  "rank_lo": 3254,
+  "rank_hi": 4564,
+  "ts_lo": 360.0,
+  "ts_hi": 381.2
+ },
+ "911 turbo 50 years": {
+  "cid": 312,
+  "rank_lo": 2193,
+  "rank_hi": 3495,
+  "ts_lo": 330.0,
+  "ts_hi": 345.1
+ },
+ "SR1": {
+  "cid": 211,
+  "rank_lo": 721,
+  "rank_hi": 2307,
+  "ts_lo": 290.0,
+  "ts_hi": 312.7
+ },
+ "Concept S": {
+  "cid": 263,
+  "rank_lo": 3089,
+  "rank_hi": 4528,
+  "ts_lo": 365.0,
+  "ts_hi": 377.5
+ },
+ "1MW": {
+  "cid": 170,
+  "rank_lo": 3518,
+  "rank_hi": 4808,
+  "ts_lo": 451.0,
+  "ts_hi": 461.6
+ },
+ "Nevera R": {
+  "cid": 5012,
+  "rank_lo": 4266,
+  "rank_hi": 5611,
+  "ts_lo": 412.0,
+  "ts_hi": 457.7
+ },
+ "XL Sport Concept": {
+  "cid": 39,
+  "rank_lo": 706,
+  "rank_hi": 1814,
+  "ts_lo": 270.0,
+  "ts_hi": 294.2
+ },
+ "Lykan HyperSport": {
+  "cid": 56,
+  "rank_lo": 3013,
+  "rank_hi": 4083,
+  "ts_lo": 395.7,
+  "ts_hi": 408.9
+ },
+ "Nevera": {
+  "cid": 104,
+  "rank_lo": 3697,
+  "rank_hi": 4897,
+  "ts_lo": 412.0,
+  "ts_hi": 422.6
+ },
+ "GR Supra Racing Concept": {
+  "cid": 331,
+  "rank_lo": 1454,
+  "rank_hi": 2930,
+  "ts_lo": 298.0,
+  "ts_hi": 313.6
+ },
+ "Lykan security": {
+  "cid": 198,
+  "rank_lo": 3165,
+  "rank_hi": 4977,
+  "ts_lo": 420.0,
+  "ts_hi": 448.6
+ },
+ "Berlinetta": {
+  "cid": 188,
+  "rank_lo": 2603,
+  "rank_hi": 4061,
+  "ts_lo": 330.0,
+  "ts_hi": 351.6
+ },
+ "Aglaia": {
+  "cid": 356,
+  "rank_lo": 3683,
+  "rank_hi": 4880,
+  "ts_lo": 425.2,
+  "ts_hi": 440.8
+ },
+ "Concept_One": {
+  "cid": 169,
+  "rank_lo": 3176,
+  "rank_hi": 4490,
+  "ts_lo": 355.0,
+  "ts_hi": 370.1
+ },
+ "Tachyon Speed": {
+  "cid": 166,
+  "rank_lo": 3035,
+  "rank_hi": 4095,
+  "ts_lo": 389.0,
+  "ts_hi": 401.5
+ },
+ "S7 Twin Turbo": {
+  "cid": 260,
+  "rank_lo": 3471,
+  "rank_hi": 4629,
+  "ts_lo": 402.0,
+  "ts_hi": 433.0
+ },
+ "2015 GTA Spano": {
+  "cid": 223,
+  "rank_lo": 3266,
+  "rank_hi": 4385,
+  "ts_lo": 373.0,
+  "ts_hi": 384.9
+ },
+ "Tuatara Striker": {
+  "cid": 324,
+  "rank_lo": 4134,
+  "rank_hi": 5337,
+  "ts_lo": 435.0,
+  "ts_hi": 482.4
+ },
+ "Super Sport": {
+  "cid": 222,
+  "rank_lo": 3565,
+  "rank_hi": 4741,
+  "ts_lo": 389.0,
+  "ts_hi": 407.1
+ },
+ "TreZor": {
+  "cid": 171,
+  "rank_lo": 1212,
+  "rank_hi": 2757,
+  "ts_lo": 280.0,
+  "ts_hi": 309.0
+ },
+ "Ultimate Aero TT": {
+  "cid": 334,
+  "rank_lo": 3512,
+  "rank_hi": 4720,
+  "ts_lo": 414.0,
+  "ts_hi": 420.0
+ },
+ "Nemesis": {
+  "cid": 57,
+  "rank_lo": 3232,
+  "rank_hi": 4344,
+  "ts_lo": 434.0,
+  "ts_hi": 452.5
+ },
+ "Aeon E": {
+  "cid": 357,
+  "rank_lo": 3876,
+  "rank_hi": 5025,
+  "ts_lo": 480.0,
+  "ts_hi": 492.8
+ },
+ "TS 900 H Racer Pro": {
+  "cid": 186,
+  "rank_lo": 3402,
+  "rank_hi": 4782,
+  "ts_lo": 380.0,
+  "ts_hi": 396.9
+ },
+ "Griffith": {
+  "cid": 89,
+  "rank_lo": 1307,
+  "rank_hi": 2641,
+  "ts_lo": 322.0,
+  "ts_hi": 340.5
+ },
+ "Force V10": {
+  "cid": 59,
+  "rank_lo": 2706,
+  "rank_hi": 3929,
+  "ts_lo": 350.0,
+  "ts_hi": 372.0
+ },
+ "Tartarus": {
+  "cid": 310,
+  "rank_lo": 4097,
+  "rank_hi": 5355,
+  "ts_lo": 530.0,
+  "ts_hi": 539.6
+ },
+ "R.S. 01": {
+  "cid": 158,
+  "rank_lo": 2071,
+  "rank_hi": 3571,
+  "ts_lo": 300.0,
+  "ts_hi": 322.9
+ },
+ "GR Super Sport Concept": {
+  "cid": 328,
+  "rank_lo": 2229,
+  "rank_hi": 4076,
+  "ts_lo": 350.0,
+  "ts_hi": 366.4
+ },
+ "Interceptor": {
+  "cid": 197,
+  "rank_lo": 2506,
+  "rank_hi": 4305,
+  "ts_lo": 333.1,
+  "ts_hi": 364.5
+ },
+ "DeZir": {
+  "cid": 205,
+  "rank_lo": 889,
+  "rank_hi": 2213,
+  "ts_lo": 275.7,
+  "ts_hi": 295.1
+ },
+ "AT96 Dragonboat Edition": {
+  "cid": 5011,
+  "rank_lo": 2929,
+  "rank_hi": 4556,
+  "ts_lo": 350.0,
+  "ts_hi": 368.2
+ },
+ "R1 550": {
+  "cid": 71,
+  "rank_lo": 2545,
+  "rank_hi": 3950,
+  "ts_lo": 350.0,
+  "ts_hi": 371.0
+ },
+ "GR Supra 2023": {
+  "cid": 325,
+  "rank_lo": 1800,
+  "rank_hi": 3258,
+  "ts_lo": 250.0,
+  "ts_hi": 322.0
+ },
+ "Tuatara": {
+  "cid": 119,
+  "rank_lo": 3758,
+  "rank_hi": 4930,
+  "ts_lo": 482.8,
+  "ts_hi": 487.6
+ },
+ "Beast X": {
+  "cid": 48,
+  "rank_lo": 1426,
+  "rank_hi": 2635,
+  "ts_lo": 282.0,
+  "ts_hi": 301.6
+ },
+ "AT96 Track Version": {
+  "cid": 98,
+  "rank_lo": 3122,
+  "rank_hi": 4020,
+  "ts_lo": 350.0,
+  "ts_hi": 366.4
+ },
+ "Sagaris": {
+  "cid": 307,
+  "rank_lo": 1708,
+  "rank_hi": 3246,
+  "ts_lo": 298.0,
+  "ts_hi": 323.8
+ },
+ "Dendrobium": {
+  "cid": 95,
+  "rank_lo": 2229,
+  "rank_hi": 4124,
+  "ts_lo": 320.0,
+  "ts_hi": 342.3
+ },
+ "Sarthe": {
+  "cid": 73,
+  "rank_lo": 1970,
+  "rank_hi": 3290,
+  "ts_lo": 340.0,
+  "ts_hi": 351.6
+ },
+ "1789": {
+  "cid": 185,
+  "rank_lo": 3232,
+  "rank_hi": 4442,
+  "ts_lo": 380.0,
+  "ts_hi": 391.3
+ },
+ "ELECTRIC R": {
+  "cid": 167,
+  "rank_lo": 1510,
+  "rank_hi": 3062,
+  "ts_lo": 270.0,
+  "ts_hi": 292.9
+ },
+ "Fenyr SuperSport": {
+  "cid": 58,
+  "rank_lo": 3345,
+  "rank_hi": 4479,
+  "ts_lo": 405.0,
+  "ts_hi": 418.2
+ },
+ "Fenyr Super Sport CNY Edition": {
+  "cid": 5017,
+  "rank_lo": 3345,
+  "rank_hi": 4653,
+  "ts_lo": 405.0,
+  "ts_hi": 410.8
+ },
+ "Lykan HyperSport Neon Edition": {
+  "cid": 5003,
+  "rank_lo": 3265,
+  "rank_hi": 4636,
+  "ts_lo": 395.0,
+  "ts_hi": 408.9
+ },
+ "Aurora Agil": {
+  "cid": 361,
+  "rank_lo": 3243,
+  "rank_hi": 4393,
+  "ts_lo": 365.0,
+  "ts_hi": 381.2
+ },
+ "TSR-S": {
+  "cid": 157,
+  "rank_lo": 2021,
+  "rank_hi": 4301,
+  "ts_lo": 325.0,
+  "ts_hi": 357.1
+ },
+ "TS1 GT Anniversary": {
+  "cid": 75,
+  "rank_lo": 3067,
+  "rank_hi": 4521,
+  "ts_lo": 402.0,
+  "ts_hi": 422.6
+ },
+ "TSR-S Dragonboat edition": {
+  "cid": 5019,
+  "rank_lo": 2430,
+  "rank_hi": 4665,
+  "ts_lo": 325.0,
+  "ts_hi": 373.8
+ },
+ "Aurora Tur": {
+  "cid": 285,
+  "rank_lo": 3869,
+  "rank_hi": 5100,
+  "ts_lo": 450.0,
+  "ts_hi": 469.4
+ }
+}

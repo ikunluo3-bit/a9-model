@@ -1,0 +1,205 @@
+{
+  "version": "6.0.0k",
+  "note": "车队唯一事实源：tools/fleet.py 读写，build 从 gdb-6.0.0k 全量重算",
+  "updated": "2026-08-27",
+  "maxed": true,
+  "swaps": [
+    {
+      "src": "Aston Martin Valkyre",
+      "dst": "Chevrolet Camaro LT",
+      "tweaks": {
+        "top_speed": 312,
+        "handling": 0.9,
+        "steer": 80000,
+        "nitro_boost": 1.5
+      }
+    },
+    {
+      "src": "Mercedes_AMG_One",
+      "dst": "BMW Z4 LCI E89",
+      "tweaks": {
+        "top_speed": 285,
+        "accel": 2.932,
+        "steer": 98900,
+        "nitro_drain": 0.6
+      }
+    },
+    {
+      "src": "Bugatti Bolide",
+      "dst": "Mitsubishi Lancer Evolution",
+      "tweaks": {
+        "nitro_boost": 1.5,
+        "nitro_drain": 0.25
+      }
+    },
+    {
+      "src": "W Motors Lykan HyperSport",
+      "dst": "Nissan 370Z",
+      "tweaks": {
+        "top_speed": 300,
+        "handling": 1,
+        "steer": 60000,
+        "nitro_boost": 4,
+        "nitro_drain": 0.5
+      }
+    },
+    {
+      "src": "Devel Sixteen",
+      "dst": "Ferrari LaFerrari #2"
+    },
+    {
+      "src": "Bugatti Divo",
+      "dst": "Chevrolet Camaro ZL",
+      "tweaks": {
+        "top_speed": 290,
+        "handling": 0.6,
+        "steer": 68000,
+        "nitro_drain": 0.8
+      }
+    },
+    {
+      "src": "Lotus Evija",
+      "dst": "Lotus Evija",
+      "tweaks": {
+        "top_speed": 278,
+        "accel": 2.8,
+        "handling": 0.7,
+        "steer": 60000
+      }
+    },
+    {
+      "src": "Mercedes_Benz_Biome_2010",
+      "dst": "Mercedes_Benz_Biome_2010",
+      "tweaks": {
+        "top_speed": 270,
+        "handling": 0.8,
+        "purple_drain": 0.3333
+      }
+    },
+    {
+      "src": "Mercedes_AMG_One",
+      "dst": "Mercedes_AMG_One",
+      "tweaks": {
+        "top_speed": 285,
+        "accel": 2.932,
+        "steer": 98900,
+        "nitro_drain": 0.6
+      }
+    },
+    {
+      "src": "Mercedes_AMG_One",
+      "dst": "Automobili Pininfarina B95",
+      "tweaks": {
+        "top_speed": 285,
+        "accel": 2.932,
+        "steer": 98900,
+        "nitro_drain": 0.6
+      }
+    },
+    {
+      "src": "Mercedes_AMG_One",
+      "dst": "Lamborghini Temerario",
+      "tweaks": {
+        "top_speed": 285,
+        "accel": 2.932,
+        "steer": 98900,
+        "nitro_drain": 0.6
+      }
+    },
+    {
+      "src": "Mercedes_AMG_One",
+      "dst": "Aston Martin Valhala",
+      "tweaks": {
+        "top_speed": 285,
+        "accel": 2.932,
+        "steer": 98900,
+        "nitro_drain": 0.6
+      }
+    },
+    {
+      "src": "Aston Martin Valkyre",
+      "dst": "Pagani Zonda R",
+      "keep_look": true,
+      "tweaks": {
+        "top_speed": 287,
+        "handling": 0.9,
+        "steer": 62000,
+        "nitro_boost": 1.5
+      }
+    },
+    {
+      "src": "Aston Martin Valkyre",
+      "dst": "Aston Martin DBS Superleggera",
+      "keep_look": true,
+      "tweaks": {
+        "top_speed": 287,
+        "handling": 0.9,
+        "steer": 62000,
+        "nitro_boost": 1.5
+      }
+    },
+    {
+      "src": "Aston Martin Valkyre",
+      "dst": "Aston Martin One77",
+      "keep_look": true,
+      "tweaks": {
+        "top_speed": 287,
+        "handling": 0.9,
+        "steer": 62000,
+        "nitro_boost": 1.5
+      }
+    },
+    {
+      "src": "Aston Martin Valkyre",
+      "dst": "Apollo IE",
+      "keep_look": true,
+      "tweaks": {
+        "top_speed": 287,
+        "handling": 0.9,
+        "steer": 62000,
+        "nitro_boost": 1.5
+      }
+    },
+    {
+      "src": "Aston Martin Valkyre",
+      "dst": "Ferrari_F12_Berlinetta",
+      "keep_look": true,
+      "tweaks": {
+        "top_speed": 287,
+        "handling": 0.9,
+        "steer": 62000,
+        "nitro_boost": 1.5
+      }
+    },
+    {
+      "src": "Aston Martin Valkyre",
+      "dst": "Lamborghini SC63",
+      "keep_look": true,
+      "tweaks": {
+        "top_speed": 287,
+        "handling": 0.9,
+        "steer": 62000,
+        "nitro_boost": 1.5
+      }
+    },
+    {
+      "src": "LEGO_Chevrolet_Corvette_Stingray_C8R_Edition",
+      "dst": "LEGO_Chevrolet_Corvette_Stingray_C8R_Edition",
+      "tweaks": {
+        "nitro_boost": 1.5,
+        "nitro_drain": 0.5
+      }
+    },
+    {
+      "src": "Aston Martin Valkyre",
+      "dst": "Pininfarina H2 Speed",
+      "keep_look": true,
+      "tweaks": {
+        "top_speed": 287,
+        "handling": 0.9,
+        "steer": 62000,
+        "nitro_boost": 1.5
+      }
+    }
+  ]
+}

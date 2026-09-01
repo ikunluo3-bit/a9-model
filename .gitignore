@@ -1,0 +1,26 @@
+# ===== 游戏资源与构建产物（版权物+体积，全部可由工具从母包重建）=====
+*.apk
+*.ipa
+*.idsig
+*.obb
+build/
+tuned-*/
+gdb-6.0.0k/
+gdb-ios-6.0.0/
+07-新游戏/
+06-新游戏交接书/
+
+# ===== 本机私有配置 =====
+tools/keystore.local
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.venv/
+
+# ===== 系统杂屑 =====
+Thumbs.db
+desktop.ini
+
+# 其他 AI 工具的本地记忆
+.workbuddy-ai/

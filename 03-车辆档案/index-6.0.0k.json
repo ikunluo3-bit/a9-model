@@ -1,0 +1,4565 @@
+{
+ "Faraday Zero1": {
+  "cardef_off": 24,
+  "physics": {
+   "key": "0x00000989304E94C8",
+   "off": 32024,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD45F705FE",
+   "off": 29682,
+   "size": 153
+  }
+ },
+ "Kepler Motion": {
+  "cardef_off": 2758,
+  "physics": {
+   "key": "0x00000989C5C5581B",
+   "off": 44436,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD23464850",
+   "off": 36315,
+   "size": 151
+  }
+ },
+ "Bentley Continental GT Speed": {
+  "cardef_off": 5538,
+  "physics": {
+   "key": "0x00000989CAB18F84",
+   "off": 33736,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF0A8CB0E",
+   "off": 34920,
+   "size": 166
+  }
+ },
+ "Bugatti Eb110": {
+  "cardef_off": 8338,
+  "physics": {
+   "key": "0x00000996DFACAC88",
+   "off": 34164,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD29D8294B",
+   "off": 32143,
+   "size": 151
+  }
+ },
+ "Peugeot SR1": {
+  "cardef_off": 11134,
+  "physics": {
+   "key": "0x000009890EA6F00B",
+   "off": 30312,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD186DF75C",
+   "off": 32751,
+   "size": 149
+  }
+ },
+ "SCG 004C": {
+  "cardef_off": 13842,
+  "physics": {
+   "key": "0x000009892B8A34E0",
+   "off": 34592,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD3686D24",
+   "off": 33681,
+   "size": 146
+  }
+ },
+ "Lamborghini Reventon Roadster": {
+  "cardef_off": 16641,
+  "physics": {
+   "key": "0x00000989E6134D4F",
+   "off": 43580,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD0531DB4C",
+   "off": 34144,
+   "size": 166
+  }
+ },
+ "Lamborghini Sesto Elemento": {
+  "cardef_off": 19565,
+  "physics": {
+   "key": "0x0000098926C9BE10",
+   "off": 30740,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC63AEEA2F",
+   "off": 31361,
+   "size": 163
+  }
+ },
+ "Ajlani Drakuma": {
+  "cardef_off": 22227,
+  "physics": {
+   "key": "0x00000989C0570FC1",
+   "off": 38872,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACCB7A5CBA",
+   "off": 34463,
+   "size": 152
+  }
+ },
+ "Nissan R390 GT1": {
+  "cardef_off": 25081,
+  "physics": {
+   "key": "0x000009893143BC04",
+   "off": 39300,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF3226E3B",
+   "off": 31679,
+   "size": 153
+  }
+ },
+ "Pagani Huayra R": {
+  "cardef_off": 25720,
+  "physics": {
+   "key": "0x000009897E05BA7E",
+   "off": 38016,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD25791E9",
+   "off": 34310,
+   "size": 153
+  }
+ },
+ "Brabham BT62": {
+  "cardef_off": 28472,
+  "physics": {
+   "key": "0x000009892EC45BE2",
+   "off": 37588,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACB87043A2",
+   "off": 34767,
+   "size": 153
+  }
+ },
+ "Lamborghini Diablo GT": {
+  "cardef_off": 31256,
+  "physics": {
+   "key": "0x00000989CE865FAB",
+   "off": 40584,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACDD6E8803",
+   "off": 33827,
+   "size": 159
+  }
+ },
+ "Lamborghini Countach 25th Anniversary": {
+  "cardef_off": 33991,
+  "physics": {
+   "key": "0x0000098959C6E256",
+   "off": 28600,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACBDCB927B",
+   "off": 33357,
+   "size": 166
+  }
+ },
+ "Bugatti Bolide": {
+  "cardef_off": 36779,
+  "physics": {
+   "key": "0x0000099690EB2024",
+   "off": 31596,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD490B4823",
+   "off": 30744,
+   "size": 152
+  }
+ },
+ "Ares S1": {
+  "cardef_off": 39517,
+  "physics": {
+   "key": "0x00000989F74A3A56",
+   "off": 29028,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF7A9DFDC",
+   "off": 35086,
+   "size": 145
+  }
+ },
+ "Torino Design Super Sport": {
+  "cardef_off": 42463,
+  "physics": {
+   "key": "0x00000989697D490A",
+   "off": 36304,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACCFEC7C06",
+   "off": 35541,
+   "size": 157
+  }
+ },
+ "GTA Spano 2015": {
+  "cardef_off": 45328,
+  "physics": {
+   "key": "0x00000996B65FF2E6",
+   "off": 36732,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9DEDFDAD",
+   "off": 35698,
+   "size": 159
+  }
+ },
+ "Mercedes Benz AMG GT Black Series": {
+  "cardef_off": 48202,
+  "physics": {
+   "key": "0x0000098970AEF654",
+   "off": 42296,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD49E81716",
+   "off": 29835,
+   "size": 156
+  }
+ },
+ "Security Interceptor": {
+  "cardef_off": 51131,
+  "physics": {
+   "key": "0x00000996BACE966E",
+   "off": 35020,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9795702F",
+   "off": 33523,
+   "size": 158
+  }
+ },
+ "Peugeot 9X8": {
+  "cardef_off": 53640,
+  "physics": {
+   "key": "0x000009969909C589",
+   "off": 27704,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF824FF03",
+   "off": 32450,
+   "size": 149
+  }
+ },
+ "Renault DeZir": {
+  "cardef_off": 56348,
+  "physics": {
+   "key": "0x00000996A2D8D535",
+   "off": 28132,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009AD5BCBEEEF",
+   "off": 30594,
+   "size": 150
+  }
+ },
+ "McLaren McLaren 650GT3": {
+  "cardef_off": 58944,
+  "physics": {
+   "key": "0x000009890FF1A503",
+   "off": 33308,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC813239B5",
+   "off": 34615,
+   "size": 152
+  }
+ },
+ "Bugatti Centodieci": {
+  "cardef_off": 61817,
+  "physics": {
+   "key": "0x000009897CEA18B0",
+   "off": 41440,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF4D15325",
+   "off": 35231,
+   "size": 158
+  }
+ },
+ "McLaren 765 LT": {
+  "cardef_off": 64648,
+  "physics": {
+   "key": "0x000009894547D008",
+   "off": 41868,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD09FCBA00",
+   "off": 32599,
+   "size": 152
+  }
+ },
+ "Porsche Boxter25th": {
+  "cardef_off": 67610,
+  "physics": {
+   "key": "0x00000989C77CF0F7",
+   "off": 41012,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACB056B193",
+   "off": 33049,
+   "size": 157
+  }
+ },
+ "Donkervoot D8 GTO": {
+  "cardef_off": 70444,
+  "physics": {
+   "key": "0x00000996808814EF",
+   "off": 44864,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD5355B2A8",
+   "off": 30137,
+   "size": 155
+  }
+ },
+ "KTM X-Bow GTX": {
+  "cardef_off": 73223,
+  "physics": {
+   "key": "0x00000989EDCF4C4F",
+   "off": 45720,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACCFF57F30",
+   "off": 36165,
+   "size": 150
+  }
+ },
+ "Bolwell MKX Nagari": {
+  "cardef_off": 75862,
+  "physics": {
+   "key": "0x00000996D4E78B88",
+   "off": 31168,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACEC118F72",
+   "off": 31051,
+   "size": 155
+  }
+ },
+ "Ferrari Monza SP1": {
+  "cardef_off": 78463,
+  "physics": {
+   "key": "0x000009969BE6007A",
+   "off": 43152,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD02BFDBE6",
+   "off": 31206,
+   "size": 155
+  }
+ },
+ "Miura Concpet": {
+  "cardef_off": 81134,
+  "physics": {
+   "key": "0x00000989FAD403A1",
+   "off": 32452,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACC83B8AB7",
+   "off": 31524,
+   "size": 155
+  }
+ },
+ "Jaguar XE SV Project 8": {
+  "cardef_off": 83941,
+  "physics": {
+   "key": "0x00000989442E94C7",
+   "off": 44008,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC8C535DE2",
+   "off": 31832,
+   "size": 160
+  }
+ },
+ "McLaren 600LT Spider": {
+  "cardef_off": 86687,
+  "physics": {
+   "key": "0x00000989103778B1",
+   "off": 37160,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACE018E390",
+   "off": 36006,
+   "size": 159
+  }
+ },
+ "W Motors Lykan HyperSport Security": {
+  "cardef_off": 89523,
+  "physics": {
+   "key": "0x00000996BE9ADEE0",
+   "off": 40156,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD381F1E53",
+   "off": 30443,
+   "size": 151
+  }
+ },
+ "Koenigsegg Agera RS": {
+  "cardef_off": 92198,
+  "physics": {
+   "key": "0x00000996A904B5D1",
+   "off": 35448,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACFAC05891",
+   "off": 32294,
+   "size": 156
+  }
+ },
+ "Chrysler ME 412": {
+  "cardef_off": 95051,
+  "physics": {
+   "key": "0x0000098923795D8C",
+   "off": 35876,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD1F48DCED",
+   "off": 35389,
+   "size": 152
+  }
+ },
+ "Praga R1": {
+  "cardef_off": 97825,
+  "physics": {
+   "key": "0x00000989CE684D8B",
+   "off": 32880,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD111D252A",
+   "off": 29991,
+   "size": 146
+  }
+ },
+ "Ferrari F50": {
+  "cardef_off": 100481,
+  "physics": {
+   "key": "0x0000098934531DE8",
+   "off": 29456,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC657DF906",
+   "off": 35857,
+   "size": 149
+  }
+ },
+ "Lamborghini Countach LPI 800-4": {
+  "cardef_off": 103146,
+  "physics": {
+   "key": "0x00000989CF525C8D",
+   "off": 38444,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACC901F688",
+   "off": 29521,
+   "size": 161
+  }
+ },
+ "Maserati MC12": {
+  "cardef_off": 106085,
+  "physics": {
+   "key": "0x00000989C2CFF42A",
+   "off": 42724,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD5418464",
+   "off": 30292,
+   "size": 151
+  }
+ },
+ "Lamborghini 2023": {
+  "cardef_off": 108900,
+  "physics": {
+   "key": "0x00000989E7B918A8",
+   "off": 46148,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD5B09BFF5",
+   "off": 36624,
+   "size": 164
+  }
+ },
+ "Apollo EVO": {
+  "cardef_off": 111890,
+  "physics": {
+   "key": "0x00000996AFC2590F",
+   "off": 46576,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD57E48F8C",
+   "off": 37090,
+   "size": 148
+  }
+ },
+ "Mercedes-Benz CLK-GTR": {
+  "cardef_off": 114694,
+  "physics": {
+   "key": "0x0000098972D84D57",
+   "off": 47004,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC7B999E7D",
+   "off": 37238,
+   "size": 156
+  }
+ },
+ "Porsche 935": {
+  "cardef_off": 117474,
+  "physics": {
+   "key": "0x00000996A03ADB73",
+   "off": 48288,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACB96D3595",
+   "off": 37394,
+   "size": 149
+  }
+ },
+ "Koenigsegg CC850": {
+  "cardef_off": 120201,
+  "physics": {
+   "key": "0x00000989FA598215",
+   "off": 51316,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACDB64E862",
+   "off": 38607,
+   "size": 155
+  }
+ },
+ "Rimac Concept S": {
+  "cardef_off": 123059,
+  "physics": {
+   "key": "0x0000099698F67035",
+   "off": 53884,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AD4C346755",
+   "off": 38762,
+   "size": 153
+  }
+ },
+ "Deus Vayanne": {
+  "cardef_off": 125804,
+  "physics": {
+   "key": "0x0000099698B60629",
+   "off": 50428,
+   "size": 460
+  },
+  "chassis": {
+   "key": "0x000009AD5BE76EEA",
+   "off": 38915,
+   "size": 150
+  }
+ },
+ "Maserati_MC20": {
+  "cardef_off": 128694,
+  "physics": {
+   "key": "0x000009892570B473",
+   "off": 51744,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD2ABAC290",
+   "off": 39065,
+   "size": 151
+  }
+ },
+ "Saleen S7 Twin Turbo": {
+  "cardef_off": 131534,
+  "physics": {
+   "key": "0x00000996AFC0477B",
+   "off": 50000,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACFBC8458C",
+   "off": 38138,
+   "size": 158
+  }
+ },
+ "Ford Mustang Mach E 1400": {
+  "cardef_off": 134321,
+  "physics": {
+   "key": "0x00000996DE0C2B42",
+   "off": 54764,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009ACAFA084AD",
+   "off": 43016,
+   "size": 157
+  }
+ },
+ "Noble M600 Speedster": {
+  "cardef_off": 137025,
+  "physics": {
+   "key": "0x0000098949D9197C",
+   "off": 49572,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF03EB26E",
+   "off": 37990,
+   "size": 148
+  }
+ },
+ "Frangivento Sorpasso GT3": {
+  "cardef_off": 139225,
+  "physics": {
+   "key": "0x00000989C88878C7",
+   "off": 45292,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC94E637FE",
+   "off": 36466,
+   "size": 158
+  }
+ },
+ "Jaguar XJR-9": {
+  "cardef_off": 142051,
+  "physics": {
+   "key": "0x000009897B9DF546",
+   "off": 47432,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF49B6DFE",
+   "off": 36941,
+   "size": 149
+  }
+ },
+ "BMW M4 GT3": {
+  "cardef_off": 144760,
+  "physics": {
+   "key": "0x000009894510A2F7",
+   "off": 50888,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC96FF6586",
+   "off": 37543,
+   "size": 148
+  }
+ },
+ "Jaguar XJR-15": {
+  "cardef_off": 147404,
+  "physics": {
+   "key": "0x00000989C68E138C",
+   "off": 52600,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACBDFA8A1E",
+   "off": 38296,
+   "size": 152
+  }
+ },
+ "McLaren Solus GT": {
+  "cardef_off": 150250,
+  "physics": {
+   "key": "0x00000989F8CA6DEC",
+   "off": 49144,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACEAFA15C2",
+   "off": 37691,
+   "size": 153
+  }
+ },
+ "McLaren Artura": {
+  "cardef_off": 153008,
+  "physics": {
+   "key": "0x00000989290824EB",
+   "off": 52172,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACC2642C59",
+   "off": 44597,
+   "size": 152
+  }
+ },
+ "Porsche Panamera Turbo S": {
+  "cardef_off": 155754,
+  "physics": {
+   "key": "0x00000996B14E6C88",
+   "off": 47860,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD4D822066",
+   "off": 38448,
+   "size": 159
+  }
+ },
+ "Koenigsegg CCXR": {
+  "cardef_off": 158625,
+  "physics": {
+   "key": "0x000009968AD4244C",
+   "off": 29884,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC7667DC53",
+   "off": 36788,
+   "size": 153
+  }
+ },
+ "DeTomaso P72": {
+  "cardef_off": 161321,
+  "physics": {
+   "key": "0x000009890C642F27",
+   "off": 48716,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD44B83173",
+   "off": 37844,
+   "size": 146
+  }
+ },
+ "Bugatti Chiron Super Sport 300": {
+  "cardef_off": 163421,
+  "physics": {
+   "key": "0x0000098926D1B904",
+   "off": 53028,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9888F68C",
+   "off": 43632,
+   "size": 168
+  }
+ },
+ "Devel Sixteen": {
+  "cardef_off": 166281,
+  "physics": {
+   "key": "0x00000996A8F7635A",
+   "off": 53456,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACFD3E49DB",
+   "off": 41617,
+   "size": 151
+  }
+ },
+ "Aston Martin DBS Zagato": {
+  "cardef_off": 169047,
+  "physics": {
+   "key": "0x00000989FD531B39",
+   "off": 54336,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD129C5738",
+   "off": 42711,
+   "size": 161
+  }
+ },
+ "Lamborghini Invencible": {
+  "cardef_off": 171890,
+  "physics": {
+   "key": "0x00000989079E4D5E",
+   "off": 63008,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD17DD3614",
+   "off": 45054,
+   "size": 160
+  }
+ },
+ "Porsche Taycan Turbo S": {
+  "cardef_off": 175031,
+  "physics": {
+   "key": "0x00000989C03C7297",
+   "off": 146428,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AD48EDC1F4",
+   "off": 3113,
+   "size": 152
+  }
+ },
+ "Porsche 911 GT1 Evolution": {
+  "cardef_off": 178008,
+  "physics": {
+   "key": "0x00000989DD86E823",
+   "off": 136480,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC6AF498AC",
+   "off": 1875,
+   "size": 163
+  }
+ },
+ "Ferrari 488 GTB Challenge EVO": {
+  "cardef_off": 180826,
+  "physics": {
+   "key": "0x00000989586E0796",
+   "off": 12580,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACEC22F32B",
+   "off": 15580,
+   "size": 167
+  }
+ },
+ "Ferrari 599XX EVO": {
+  "cardef_off": 183487,
+  "physics": {
+   "key": "0x00000996B72E8FB6",
+   "off": 8300,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACEBB8BAB3",
+   "off": 13581,
+   "size": 155
+  }
+ },
+ "Ferrari 812 Superfast": {
+  "cardef_off": 186537,
+  "physics": {
+   "key": "0x00000996D22CAD7E",
+   "off": 121896,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACE5902A93",
+   "off": 10944,
+   "size": 159
+  }
+ },
+ "Ferrari J50": {
+  "cardef_off": 189299,
+  "physics": {
+   "key": "0x0000099690DE33F0",
+   "off": 122752,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD7CDE2B5",
+   "off": 14825,
+   "size": 149
+  }
+ },
+ "Ferrari Enzo": {
+  "cardef_off": 192019,
+  "physics": {
+   "key": "0x000009896EB5CA92",
+   "off": 6564,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACC7970820",
+   "off": 13736,
+   "size": 150
+  }
+ },
+ "Nissan Leaf Nismo": {
+  "cardef_off": 194647,
+  "physics": {
+   "key": "0x00000996B760B70E",
+   "off": 104512,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AC66328D20",
+   "off": 12346,
+   "size": 158
+  }
+ },
+ "Nissan 370Z SpecialEdition": {
+  "cardef_off": 195090,
+  "physics": {
+   "key": "0x00000996BB8E03EB",
+   "off": 104964,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD3773EDBF",
+   "off": 13429,
+   "size": 152
+  }
+ },
+ "Nissan 370Z": {
+  "cardef_off": 196119,
+  "physics": {
+   "key": "0x000009892E087EE3",
+   "off": 105392,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC795907D1",
+   "off": 13280,
+   "size": 149
+  }
+ },
+ "Volkswagen XL Sport Concept": {
+  "cardef_off": 196613,
+  "physics": {
+   "key": "0x00000989D92F013C",
+   "off": 104084,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD3CBD951",
+   "off": 2811,
+   "size": 148
+  }
+ },
+ "Porsche 718 Cayman GT4 Clubsport": {
+  "cardef_off": 199385,
+  "physics": {
+   "key": "0x00000989529F976C",
+   "off": 149488,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC6555FC14",
+   "off": 7422,
+   "size": 166
+  }
+ },
+ "Porsche 718 Cayman": {
+  "cardef_off": 202345,
+  "physics": {
+   "key": "0x00000996D03D654B",
+   "off": 137336,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD33820529",
+   "off": 6205,
+   "size": 155
+  }
+ },
+ "Chevrolet Camaro LT": {
+  "cardef_off": 207568,
+  "physics": {
+   "key": "0x000009969DE6E58A",
+   "off": 101944,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD1281AB5C",
+   "off": 9421,
+   "size": 156
+  }
+ },
+ "BMW Z4 LCI E89": {
+  "cardef_off": 210262,
+  "physics": {
+   "key": "0x0000098944F0784F",
+   "off": 103228,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD369D409A",
+   "off": 10040,
+   "size": 144
+  }
+ },
+ "Police Truck": {
+  "cardef_off": 213132,
+  "physics": {
+   "key": "0x000009892B991BD0",
+   "off": 105820,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x0002643DDA5E3A43",
+   "off": 2507,
+   "size": 150
+  }
+ },
+ "Police Van": {
+  "cardef_off": 213506,
+  "physics": {
+   "key": "0x000009890F141156",
+   "off": 106676,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x0002643C001065B2",
+   "off": 474,
+   "size": 148
+  }
+ },
+ "DS Automobile E-Tense Performance": {
+  "cardef_off": 213820,
+  "physics": {
+   "key": "0x00000996AC0D94FD",
+   "off": 101040,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AC6160EDC8",
+   "off": 9577,
+   "size": 159
+  }
+ },
+ "Police Car": {
+  "cardef_off": 216463,
+  "physics": {
+   "key": "0x000009890F141156",
+   "off": 106676,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x0002643D8B1AC853",
+   "off": 1574,
+   "size": 150
+  }
+ },
+ "Infiniti Project Black S": {
+  "cardef_off": 216777,
+  "physics": {
+   "key": "0x0000098975894620",
+   "off": 97592,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF8ACDB4C",
+   "off": 15747,
+   "size": 161
+  }
+ },
+ "Honda Civic": {
+  "cardef_off": 219384,
+  "physics": {
+   "key": "0x000009892EF0E945",
+   "off": 111052,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC989DE541",
+   "off": 15424,
+   "size": 156
+  }
+ },
+ "Mitsubishi Lancer Evolution": {
+  "cardef_off": 222089,
+  "physics": {
+   "key": "0x000009891072B43C",
+   "off": 118416,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD12366D1A",
+   "off": 12039,
+   "size": 155
+  }
+ },
+ "BMW CSL Hommage": {
+  "cardef_off": 227072,
+  "physics": {
+   "key": "0x00000989E06E45B7",
+   "off": 117132,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD062BD79E",
+   "off": 13127,
+   "size": 153
+  }
+ },
+ "RAMP TEST": {
+  "cardef_off": 229686,
+  "physics": {
+   "key": "0x0000098922A56083",
+   "off": 121420,
+   "size": 476
+  },
+  "chassis": {
+   "key": "0x000009AD062BD79E",
+   "off": 13127,
+   "size": 153
+  }
+ },
+ "DS Automobile E-Tense": {
+  "cardef_off": 232203,
+  "physics": {
+   "key": "0x000009891FA56958",
+   "off": 101492,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009ACFC9BFBA3",
+   "off": 9893,
+   "size": 147
+  }
+ },
+ "Slowest Car": {
+  "cardef_off": 234834,
+  "physics": {
+   "key": "0x00000996B06667A9",
+   "off": 108888,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD062BD79E",
+   "off": 13127,
+   "size": 153
+  }
+ },
+ "Fastest Car": {
+  "cardef_off": 237353,
+  "physics": {
+   "key": "0x00000989CFC81A0B",
+   "off": 111908,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC603B0090",
+   "off": 17138,
+   "size": 155
+  }
+ },
+ "Cadillac Cien Concept": {
+  "cardef_off": 239752,
+  "physics": {
+   "key": "0x000009892F64ACCF",
+   "off": 117560,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9BA460B4",
+   "off": 21029,
+   "size": 158
+  }
+ },
+ "Lamborghini Aventador LP750-4 Superveloce": {
+  "cardef_off": 242446,
+  "physics": {
+   "key": "0x0000098933B12BC2",
+   "off": 116704,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD1BE9918A",
+   "off": 20397,
+   "size": 159
+  }
+ },
+ "Lamborghini Aventador J": {
+  "cardef_off": 245157,
+  "physics": {
+   "key": "0x00000996D39B5C22",
+   "off": 114944,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACBF6166A6",
+   "off": 19326,
+   "size": 160
+  }
+ },
+ "Nissan GT-R Nismo Neon": {
+  "cardef_off": 247863,
+  "physics": {
+   "key": "0x000009897FED0724",
+   "off": 128744,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD80076FA",
+   "off": 16672,
+   "size": 161
+  }
+ },
+ "Porsche 911 GT2 RS Clubsport": {
+  "cardef_off": 248997,
+  "physics": {
+   "key": "0x00000989FC7D2F33",
+   "off": 147776,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACA83BF9D7",
+   "off": 622,
+   "size": 163
+  }
+ },
+ "Porsche 911 GTS": {
+  "cardef_off": 252002,
+  "physics": {
+   "key": "0x00000989548F5836",
+   "off": 139500,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACEFD2934E",
+   "off": 4063,
+   "size": 152
+  }
+ },
+ "Porsche 911 GT3 RS 2023": {
+  "cardef_off": 257234,
+  "physics": {
+   "key": "0x00000989E2118C8D",
+   "off": 148632,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD374573DE",
+   "off": 2038,
+   "size": 161
+  }
+ },
+ "Fordzilla P1": {
+  "cardef_off": 258049,
+  "physics": {
+   "key": "0x000009893CCE8A02",
+   "off": 141212,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACEF9EBC8B",
+   "off": 6513,
+   "size": 150
+  }
+ },
+ "Inferno Automobili Inferno": {
+  "cardef_off": 260967,
+  "physics": {
+   "key": "0x00000989F4023408",
+   "off": 97164,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC8A647533",
+   "off": 17589,
+   "size": 145
+  }
+ },
+ "Bentley 2018 Continental GT3": {
+  "cardef_off": 263841,
+  "physics": {
+   "key": "0x00000989C06B0CA4",
+   "off": 13864,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD5BC8EB8B",
+   "off": 7261,
+   "size": 161
+  }
+ },
+ "Lamborghini Veneno": {
+  "cardef_off": 266549,
+  "physics": {
+   "key": "0x0000098902E8B473",
+   "off": 10868,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD4CBA1B3D",
+   "off": 24148,
+   "size": 156
+  }
+ },
+ "Vanda Electrics Dendrobium": {
+  "cardef_off": 269373,
+  "physics": {
+   "key": "0x000009896EC5F17C",
+   "off": 138620,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AC7FEAEF10",
+   "off": 18210,
+   "size": 164
+  }
+ },
+ "Aspark Owl": {
+  "cardef_off": 272178,
+  "physics": {
+   "key": "0x00000996BE1894C1",
+   "off": 95256,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AC8C264BCF",
+   "off": 14522,
+   "size": 148
+  }
+ },
+ "Techrules AT96 Track Version Dragonboat Edition": {
+  "cardef_off": 275081,
+  "physics": {
+   "key": "0x000009892CC26A48",
+   "off": 114492,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AD3560EAFD",
+   "off": 13886,
+   "size": 166
+  }
+ },
+ "Lamborghini Egoista": {
+  "cardef_off": 277714,
+  "physics": {
+   "key": "0x0000098945B5FE0A",
+   "off": 125748,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD37E88183",
+   "off": 11731,
+   "size": 157
+  }
+ },
+ "Lamborghini Gallardo LP 560-4": {
+  "cardef_off": 280504,
+  "physics": {
+   "key": "0x00000996887C1CCA",
+   "off": 14720,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD2D817490",
+   "off": 21825,
+   "size": 167
+  }
+ },
+ "Aston Martin Vulcan": {
+  "cardef_off": 283489,
+  "physics": {
+   "key": "0x000009892DBBC84C",
+   "off": 144716,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD43A5DD94",
+   "off": 17734,
+   "size": 156
+  }
+ },
+ "Nissan GT-R Nismo": {
+  "cardef_off": 286081,
+  "physics": {
+   "key": "0x000009897E4D5CCA",
+   "off": 129172,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACBE38BC2A",
+   "off": 18543,
+   "size": 154
+  }
+ },
+ "Bentley Mulliner Bacalar": {
+  "cardef_off": 286668,
+  "physics": {
+   "key": "0x0000098951A5D425",
+   "off": 5272,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACAD5F14B8",
+   "off": 5902,
+   "size": 153
+  }
+ },
+ "Koenigsegg Jesko Absolut": {
+  "cardef_off": 289432,
+  "physics": {
+   "key": "0x000009892CA9C74A",
+   "off": 115372,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD33D79F6C",
+   "off": 14052,
+   "size": 163
+  }
+ },
+ "Lamborghini Si��n FKP 37": {
+  "cardef_off": 292164,
+  "physics": {
+   "key": "0x000009891CC7B043",
+   "off": 6128,
+   "size": 436
+  },
+  "chassis": {
+   "key": "0x000009AC78AD33DF",
+   "off": 19646,
+   "size": 154
+  }
+ },
+ "Trion Nemesis": {
+  "cardef_off": 294998,
+  "physics": {
+   "key": "0x00000996AFF60BDD",
+   "off": 125320,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD22BAF46F",
+   "off": 16369,
+   "size": 151
+  }
+ },
+ "Lamborghini Murcielago Roadster": {
+  "cardef_off": 297935,
+  "physics": {
+   "key": "0x00000989412B4E91",
+   "off": 98020,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACAAC0F65F",
+   "off": 21992,
+   "size": 160
+  }
+ },
+ "Bugatti Divo": {
+  "cardef_off": 300922,
+  "physics": {
+   "key": "0x00000996B5879D58",
+   "off": 103656,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD2FA8B83F",
+   "off": 15126,
+   "size": 150
+  }
+ },
+ "Koenigsegg Regera": {
+  "cardef_off": 303868,
+  "physics": {
+   "key": "0x000009896C6BFCC9",
+   "off": 124036,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD6F68FB0",
+   "off": 11576,
+   "size": 155
+  }
+ },
+ "Porsche 911 Targa 4S": {
+  "cardef_off": 306806,
+  "physics": {
+   "key": "0x00000989DD3A64C9",
+   "off": 145572,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACDEFFEA98",
+   "off": 934,
+   "size": 158
+  }
+ },
+ "Lamborghini Asterion": {
+  "cardef_off": 309856,
+  "physics": {
+   "key": "0x000009894116E8E7",
+   "off": 120992,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD6AB73EE",
+   "off": 21350,
+   "size": 158
+  }
+ },
+ "Dodge Viper GTS": {
+  "cardef_off": 314737,
+  "physics": {
+   "key": "0x00000989449C0B57",
+   "off": 128316,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACCF1E5B88",
+   "off": 16520,
+   "size": 152
+  }
+ },
+ "Aston Martin Valhala": {
+  "cardef_off": 317449,
+  "physics": {
+   "key": "0x0000098908D76C27",
+   "off": 13436,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9085EEEB",
+   "off": 18052,
+   "size": 158
+  }
+ },
+ "NIO EP9": {
+  "cardef_off": 320189,
+  "physics": {
+   "key": "0x00000996B05153C9",
+   "off": 13008,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF3E4C676",
+   "off": 17293,
+   "size": 145
+  }
+ },
+ "Bugatti Chiron": {
+  "cardef_off": 323222,
+  "physics": {
+   "key": "0x000009890338C8D1",
+   "off": 107580,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC8B9E9630",
+   "off": 14974,
+   "size": 152
+  }
+ },
+ "Bugatti La Voiture Noire": {
+  "cardef_off": 328457,
+  "physics": {
+   "key": "0x0000098915F74685",
+   "off": 96536,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD150841C0",
+   "off": 11414,
+   "size": 162
+  }
+ },
+ "Lamborghini Centenario LP770-4 My17": {
+  "cardef_off": 331374,
+  "physics": {
+   "key": "0x0000098922CE7791",
+   "off": 127460,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACED1353B3",
+   "off": 24616,
+   "size": 160
+  }
+ },
+ "Techrules AT96 Track Version": {
+  "cardef_off": 334308,
+  "physics": {
+   "key": "0x00000989F9B3476A",
+   "off": 115800,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AD229287CD",
+   "off": 12961,
+   "size": 166
+  }
+ },
+ "Police Car Hacked": {
+  "cardef_off": 337214,
+  "physics": {
+   "key": "0x000009969BDCDFAC",
+   "off": 108008,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD37049E2C",
+   "off": 22152,
+   "size": 150
+  }
+ },
+ "Lamborghini Terzo Millennio": {
+  "cardef_off": 339834,
+  "physics": {
+   "key": "0x00000996A293DD5F",
+   "off": 114048,
+   "size": 444
+  },
+  "chassis": {
+   "key": "0x000009ACDFAFA41D",
+   "off": 24776,
+   "size": 165
+  }
+ },
+ "Koenigsegg Jesko": {
+  "cardef_off": 342735,
+  "physics": {
+   "key": "0x0000099699DF881D",
+   "off": 123608,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACABB14EE4",
+   "off": 10184,
+   "size": 154
+  }
+ },
+ "Porsche Formula E": {
+  "cardef_off": 345953,
+  "physics": {
+   "key": "0x0000098969DF7295",
+   "off": 135600,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AC9AC5C617",
+   "off": 7588,
+   "size": 155
+  }
+ },
+ "WMotors Fenyr Supersport CNY_Edition": {
+  "cardef_off": 346454,
+  "physics": {
+   "key": "0x0000098903F922DA",
+   "off": 127888,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACEB9F14B8",
+   "off": 12810,
+   "size": 151
+  }
+ },
+ "TVR Griffith": {
+  "cardef_off": 349220,
+  "physics": {
+   "key": "0x00000989618297AE",
+   "off": 124892,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD9E38C14",
+   "off": 10489,
+   "size": 150
+  }
+ },
+ "Lamborghini Huracan Sterrato": {
+  "cardef_off": 352029,
+  "physics": {
+   "key": "0x000009894F0732A2",
+   "off": 55232,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD511A43C9",
+   "off": 43800,
+   "size": 166
+  }
+ },
+ "Lamborghini Aventador LP750-4 Superveloce #2": {
+  "cardef_off": 354795,
+  "physics": {
+   "key": "0x0000098958DB72D5",
+   "off": 112764,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD1BE9918A",
+   "off": 20397,
+   "size": 159
+  }
+ },
+ "Porsche 911 GT3 RS": {
+  "cardef_off": 359838,
+  "physics": {
+   "key": "0x00000989ED9FA45A",
+   "off": 139928,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD0D808091",
+   "off": 2959,
+   "size": 154
+  }
+ },
+ "Porsche Carrera GT": {
+  "cardef_off": 362696,
+  "physics": {
+   "key": "0x00000996B05F1ABC",
+   "off": 145144,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACE1CB4C6B",
+   "off": 5586,
+   "size": 156
+  }
+ },
+ "Citro��n GT": {
+  "cardef_off": 365588,
+  "physics": {
+   "key": "0x000009893A7C6DAA",
+   "off": 98448,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AC7A7C8ED4",
+   "off": 1092,
+   "size": 148
+  }
+ },
+ "Ford GT MK II": {
+  "cardef_off": 368362,
+  "physics": {
+   "key": "0x00000989040EF6C8",
+   "off": 102372,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACB5463DB8",
+   "off": 4375,
+   "size": 149
+  }
+ },
+ "Lamborghini Huracan Super Trofeo": {
+  "cardef_off": 371055,
+  "physics": {
+   "key": "0x000009897F2292ED",
+   "off": 99328,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC6522E5D7",
+   "off": 18374,
+   "size": 169
+  }
+ },
+ "Lamborghini Huracan EVO Spyder": {
+  "cardef_off": 373897,
+  "physics": {
+   "key": "0x00000989FEA3DD3F",
+   "off": 113192,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD51434270",
+   "off": 19158,
+   "size": 168
+  }
+ },
+ "APEX Ap0": {
+  "cardef_off": 378923,
+  "physics": {
+   "key": "0x0000098924E2A796",
+   "off": 7848,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AD2395B67F",
+   "off": 6966,
+   "size": 146
+  }
+ },
+ "Apollo N": {
+  "cardef_off": 381788,
+  "physics": {
+   "key": "0x0000098939E153B5",
+   "off": 134744,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC64F31AED",
+   "off": 4835,
+   "size": 146
+  }
+ },
+ "Vencer Sarthe": {
+  "cardef_off": 384471,
+  "physics": {
+   "key": "0x00000996979E72B8",
+   "off": 112336,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD2ACF000B",
+   "off": 9120,
+   "size": 151
+  }
+ },
+ "Peugeot Onyx": {
+  "cardef_off": 387384,
+  "physics": {
+   "key": "0x00000996DECDEA74",
+   "off": 100612,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC631CC7C1",
+   "off": 9271,
+   "size": 150
+  }
+ },
+ "Maserati Alfieri": {
+  "cardef_off": 390194,
+  "physics": {
+   "key": "0x000009969EB38DC1",
+   "off": 143352,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACFD0E1E78",
+   "off": 8810,
+   "size": 154
+  }
+ },
+ "Mercedes Benz SLR McLaren": {
+  "cardef_off": 392907,
+  "physics": {
+   "key": "0x0000098915140E3F",
+   "off": 122324,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD44B037FD",
+   "off": 2199,
+   "size": 158
+  }
+ },
+ "Lamborghini SC18 Alston": {
+  "cardef_off": 396015,
+  "physics": {
+   "key": "0x000009890900FBAC",
+   "off": 10440,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD2542150C",
+   "off": 18997,
+   "size": 161
+  }
+ },
+ "Arrinera Hussarya 33": {
+  "cardef_off": 398718,
+  "physics": {
+   "key": "0x000009897EFC3297",
+   "off": 109768,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACDD590603",
+   "off": 8652,
+   "size": 158
+  }
+ },
+ "SIN R1 550": {
+  "cardef_off": 401636,
+  "physics": {
+   "key": "0x00000989C60A7881",
+   "off": 141640,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACC1F443E1",
+   "off": 4981,
+   "size": 144
+  }
+ },
+ "Genty Akylone": {
+  "cardef_off": 404365,
+  "physics": {
+   "key": "0x000009894A503D8C",
+   "off": 140356,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC8E3CB905",
+   "off": 1724,
+   "size": 151
+  }
+ },
+ "Rimac Nevera R": {
+  "cardef_off": 407042,
+  "physics": {
+   "key": "0x000009890CDC9E7A",
+   "off": 146880,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009ACE47A3B66",
+   "off": 3424,
+   "size": 152
+  }
+ },
+ "Rimac Nevera": {
+  "cardef_off": 409913,
+  "physics": {
+   "key": "0x0000099695B5A66A",
+   "off": 144248,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009ACE61E1BD0",
+   "off": 2357,
+   "size": 150
+  }
+ },
+ "Zenvo TS1 GT Anniversary": {
+  "cardef_off": 413162,
+  "physics": {
+   "key": "0x00000989027008B6",
+   "off": 124464,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACECA13592",
+   "off": 16222,
+   "size": 147
+  }
+ },
+ "Scuderia Cameron Glickenhaus SCG 003 Stradale": {
+  "cardef_off": 415869,
+  "physics": {
+   "key": "0x000009896CF04BA2",
+   "off": 138192,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACA90E3845",
+   "off": 3889,
+   "size": 174
+  }
+ },
+ "Mazda Furai": {
+  "cardef_off": 418608,
+  "physics": {
+   "key": "0x00000996AEE9DC7C",
+   "off": 142068,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD531A8233",
+   "off": 5125,
+   "size": 149
+  }
+ },
+ "Apollo IE": {
+  "cardef_off": 421202,
+  "physics": {
+   "key": "0x0000098979DA0860",
+   "off": 98900,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD311F00E",
+   "off": 6663,
+   "size": 147
+  }
+ },
+ "BXR Motors Bailey Blade GT1": {
+  "cardef_off": 423923,
+  "physics": {
+   "key": "0x00000996A5555596",
+   "off": 99756,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACEF830F74",
+   "off": 2657,
+   "size": 154
+  }
+ },
+ "Ford GT": {
+  "cardef_off": 426832,
+  "physics": {
+   "key": "0x000009897EBA5116",
+   "off": 146000,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD0387CBE5",
+   "off": 5441,
+   "size": 145
+  }
+ },
+ "Ferrari FXX K": {
+  "cardef_off": 429697,
+  "physics": {
+   "key": "0x000009895C95B946",
+   "off": 127032,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD394CA600",
+   "off": 11255,
+   "size": 159
+  }
+ },
+ "W Motors Lykan HyperSport": {
+  "cardef_off": 431983,
+  "physics": {
+   "key": "0x000009897A8CD1C7",
+   "off": 110196,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD86846CB",
+   "off": 10639,
+   "size": 151
+  }
+ },
+ "Jaguar C-X75": {
+  "cardef_off": 434936,
+  "physics": {
+   "key": "0x000009891BE4674A",
+   "off": 4400,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC711A106B",
+   "off": 7112,
+   "size": 149
+  }
+ },
+ "Icona Vulcona Titanium": {
+  "cardef_off": 437852,
+  "physics": {
+   "key": "0x0000098912F3B8C5",
+   "off": 126604,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9BF2F332",
+   "off": 17438,
+   "size": 151
+  }
+ },
+ "Chevrolet Corvette Stingray": {
+  "cardef_off": 442599,
+  "physics": {
+   "key": "0x00000989D9513246",
+   "off": 106248,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC64A748E2",
+   "off": 1240,
+   "size": 165
+  }
+ },
+ "Aston Martin Vantage GT12": {
+  "cardef_off": 445358,
+  "physics": {
+   "key": "0x000009968D031CAC",
+   "off": 134316,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9981885C",
+   "off": 21187,
+   "size": 163
+  }
+ },
+ "Automobili Pininfarina Battista": {
+  "cardef_off": 448100,
+  "physics": {
+   "key": "0x0000099697A3279C",
+   "off": 109316,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AD1CFF090D",
+   "off": 1405,
+   "size": 169
+  }
+ },
+ "Ford Shelby GT350R": {
+  "cardef_off": 451247,
+  "physics": {
+   "key": "0x0000098969EB75BA",
+   "off": 137764,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACEE2A3400",
+   "off": 7743,
+   "size": 156
+  }
+ },
+ "Lotus Elise Sprint 220": {
+  "cardef_off": 454000,
+  "physics": {
+   "key": "0x00000989575A7571",
+   "off": 117988,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD3FACF6DB",
+   "off": 3576,
+   "size": 160
+  }
+ },
+ "Lotus Evora Sports 410": {
+  "cardef_off": 456765,
+  "physics": {
+   "key": "0x000009896698A76D",
+   "off": 120556,
+   "size": 436
+  },
+  "chassis": {
+   "key": "0x000009AD59FAB087",
+   "off": 8048,
+   "size": 149
+  }
+ },
+ "Jaguar F-TYPE SVR": {
+  "cardef_off": 459514,
+  "physics": {
+   "key": "0x00000996B708225C",
+   "off": 149060,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC6F39EF9F",
+   "off": 6055,
+   "size": 150
+  }
+ },
+ "Chevrolet Corvette Grand Sport": {
+  "cardef_off": 462217,
+  "physics": {
+   "key": "0x00000996B2DAFF29",
+   "off": 140784,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC68409F1A",
+   "off": 5274,
+   "size": 167
+  }
+ },
+ "Aston Martin V12 Vantage 2022": {
+  "cardef_off": 467213,
+  "physics": {
+   "key": "0x00000996AD6478FE",
+   "off": 150344,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD076E4160",
+   "off": 20556,
+   "size": 167
+  }
+ },
+ "Dodge Viper ACR": {
+  "cardef_off": 469970,
+  "physics": {
+   "key": "0x00000989F826F6FC",
+   "off": 110624,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC67F3C826",
+   "off": 4682,
+   "size": 153
+  }
+ },
+ "Mercedes-Benz AMG GT S": {
+  "cardef_off": 472633,
+  "physics": {
+   "key": "0x00000989F1F8D847",
+   "off": 119700,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD5180430A",
+   "off": 9736,
+   "size": 157
+  }
+ },
+ "Ferrari 488 GTB": {
+  "cardef_off": 477327,
+  "physics": {
+   "key": "0x00000989399E83A1",
+   "off": 123180,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD495B18DC",
+   "off": 11103,
+   "size": 152
+  }
+ },
+ "BMW M4 GTS": {
+  "cardef_off": 479487,
+  "physics": {
+   "key": "0x00000989E39C1E33",
+   "off": 119272,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD0EB3E0A0",
+   "off": 8508,
+   "size": 144
+  }
+ },
+ "Chevrolet Camaro ZL": {
+  "cardef_off": 482091,
+  "physics": {
+   "key": "0x000009891A317FCF",
+   "off": 111480,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD4A34F48",
+   "off": 8964,
+   "size": 156
+  }
+ },
+ "LEGO Technics": {
+  "cardef_off": 487396,
+  "physics": {
+   "key": "0x0000098952F86B09",
+   "off": 3100,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF44B60E3",
+   "off": 25244,
+   "size": 151
+  }
+ },
+ "Dodge Challenger 392 HEMI Scat Pack Shaker": {
+  "cardef_off": 487851,
+  "physics": {
+   "key": "0x00000989080B2D4C",
+   "off": 149916,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD022003DE",
+   "off": 8351,
+   "size": 157
+  }
+ },
+ "Invisible Car": {
+  "cardef_off": 490690,
+  "physics": {
+   "key": "0x00000996A4E6EBE8",
+   "off": 133460,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD073D727A",
+   "off": 18842,
+   "size": 155
+  }
+ },
+ "Chevrolet Corvette Grand Sport Halloween Edition": {
+  "cardef_off": 492758,
+  "physics": {
+   "key": "0x000009890C939F48",
+   "off": 142496,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC68409F1A",
+   "off": 5274,
+   "size": 167
+  }
+ },
+ "Aston Martin DBS Superleggera": {
+  "cardef_off": 495453,
+  "physics": {
+   "key": "0x000009892F7ED99D",
+   "off": 133888,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC637E990B",
+   "off": 23526,
+   "size": 167
+  }
+ },
+ "Chevrolet Corvette C7R": {
+  "cardef_off": 498261,
+  "physics": {
+   "key": "0x0000098917E70C8B",
+   "off": 102800,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACA4848AFD",
+   "off": 19486,
+   "size": 160
+  }
+ },
+ "Ford Shelby GR-1": {
+  "cardef_off": 500998,
+  "physics": {
+   "key": "0x00000989EBBD00BD",
+   "off": 148204,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD42D399E4",
+   "off": 6360,
+   "size": 153
+  }
+ },
+ "Dodge Challenger": {
+  "cardef_off": 503800,
+  "physics": {
+   "key": "0x0000098933B12BC2",
+   "off": 116704,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD450E1D99",
+   "off": 8197,
+   "size": 154
+  }
+ },
+ "Ferrari LaFerrari": {
+  "cardef_off": 506570,
+  "physics": {
+   "key": "0x00000996A4E6EBE8",
+   "off": 133460,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC603B0090",
+   "off": 17138,
+   "size": 155
+  }
+ },
+ "VLF Force V10": {
+  "cardef_off": 508870,
+  "physics": {
+   "key": "0x00000989E337560A",
+   "off": 130028,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD0F15202C",
+   "off": 16067,
+   "size": 155
+  }
+ },
+ "W Motors Fenyr Supersport": {
+  "cardef_off": 511596,
+  "physics": {
+   "key": "0x000009895A598844",
+   "off": 133024,
+   "size": 436
+  },
+  "chassis": {
+   "key": "0x000009ACEB9F14B8",
+   "off": 12810,
+   "size": 151
+  }
+ },
+ "McLaren Senna": {
+  "cardef_off": 514586,
+  "physics": {
+   "key": "0x000009892DA66DCA",
+   "off": 131740,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACCBA3D9F8",
+   "off": 10338,
+   "size": 151
+  }
+ },
+ "McLaren 570S Coup��": {
+  "cardef_off": 519831,
+  "physics": {
+   "key": "0x0000098944699C77",
+   "off": 131312,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD4E5105B6",
+   "off": 12660,
+   "size": 150
+  }
+ },
+ "Aston Martin DB11": {
+  "cardef_off": 522769,
+  "physics": {
+   "key": "0x00000989EF82C444",
+   "off": 135172,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC8AF79C54",
+   "off": 25090,
+   "size": 154
+  }
+ },
+ "Pininfarina H2 Speed": {
+  "cardef_off": 525703,
+  "physics": {
+   "key": "0x0000098905BA0EC2",
+   "off": 120128,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD1203EE4A",
+   "off": 4524,
+   "size": 158
+  }
+ },
+ "W Motors Lykan HyperSport Neon Edition": {
+  "cardef_off": 528349,
+  "physics": {
+   "key": "0x0000098969048B8C",
+   "off": 126176,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC986C1980",
+   "off": 14371,
+   "size": 151
+  }
+ },
+ "McLaren Speedtail": {
+  "cardef_off": 531682,
+  "physics": {
+   "key": "0x00000989343DD0B6",
+   "off": 6992,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACBD83FC46",
+   "off": 14670,
+   "size": 155
+  }
+ },
+ "Ferrari LaFerrari #2": {
+  "cardef_off": 534477,
+  "physics": {
+   "key": "0x00000989548F5836",
+   "off": 139500,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC603B0090",
+   "off": 17138,
+   "size": 155
+  }
+ },
+ "Lotus Evija": {
+  "cardef_off": 536623,
+  "physics": {
+   "key": "0x000009893AC925F8",
+   "off": 116252,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AC79B3AC30",
+   "off": 7899,
+   "size": 149
+  }
+ },
+ "Ferrari SF 90 Stradale": {
+  "cardef_off": 539379,
+  "physics": {
+   "key": "0x00000989F8AA7D6C",
+   "off": 14292,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD4B184B90",
+   "off": 15908,
+   "size": 159
+  }
+ },
+ "Chevrolet Corvette ZR1": {
+  "cardef_off": 541800,
+  "physics": {
+   "key": "0x000009894860199A",
+   "off": 136052,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD2E9D0A67",
+   "off": 5742,
+   "size": 160
+  }
+ },
+ "SSC North America Tuatara": {
+  "cardef_off": 544555,
+  "physics": {
+   "key": "0x00000989554C4B64",
+   "off": 100184,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD4D6C3611",
+   "off": 16833,
+   "size": 149
+  }
+ },
+ "Ferrari LaFerrari Aperta": {
+  "cardef_off": 547018,
+  "physics": {
+   "key": "0x00000996B410DC37",
+   "off": 139072,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF9030302",
+   "off": 17890,
+   "size": 162
+  }
+ },
+ "Italdesign Zerouno": {
+  "cardef_off": 549352,
+  "physics": {
+   "key": "0x00000989DB51F775",
+   "off": 129600,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF8A8C4B4",
+   "off": 14215,
+   "size": 156
+  }
+ },
+ "BMW i8 Roadster": {
+  "cardef_off": 552048,
+  "physics": {
+   "key": "0x00000989003D3FC0",
+   "off": 94628,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF5D053A4",
+   "off": 19800,
+   "size": 144
+  }
+ },
+ "Ginetta G60": {
+  "cardef_off": 554781,
+  "physics": {
+   "key": "0x000009896792E8C3",
+   "off": 142924,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD18F9E942",
+   "off": 24467,
+   "size": 149
+  }
+ },
+ "Artega Scalo Superelletra": {
+  "cardef_off": 557516,
+  "physics": {
+   "key": "0x000009969D7CFCE2",
+   "off": 108436,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009ACC7E9CBB9",
+   "off": 24304,
+   "size": 163
+  }
+ },
+ "Porsche 918 Spyder with Weissach Package": {
+  "cardef_off": 560254,
+  "physics": {
+   "key": "0x0000098972D625B8",
+   "off": 130884,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD026BC784",
+   "off": 12504,
+   "size": 156
+  }
+ },
+ "Ferrari F8 Tributo": {
+  "cardef_off": 564586,
+  "physics": {
+   "key": "0x0000098956BB6938",
+   "off": 12152,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD399F2690",
+   "off": 16982,
+   "size": 156
+  }
+ },
+ "Ferrari F12tdf": {
+  "cardef_off": 566828,
+  "physics": {
+   "key": "0x00000989E52FAB6F",
+   "off": 147348,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD1432305C",
+   "off": 12194,
+   "size": 152
+  }
+ },
+ "Acura NSX GT3 EVO": {
+  "cardef_off": 568987,
+  "physics": {
+   "key": "0x0000098933BAE028",
+   "off": 96108,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD375E6E28",
+   "off": 22908,
+   "size": 151
+  }
+ },
+ "Acura NSX": {
+  "cardef_off": 571806,
+  "physics": {
+   "key": "0x0000098930266FE0",
+   "off": 113620,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC8C007FCE",
+   "off": 20100,
+   "size": 147
+  }
+ },
+ "Exotic Rides W70": {
+  "cardef_off": 574512,
+  "physics": {
+   "key": "0x00000989FB97587D",
+   "off": 118844,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD3AE284FB",
+   "off": 20877,
+   "size": 152
+  }
+ },
+ "Pagani Huayra BC": {
+  "cardef_off": 577431,
+  "physics": {
+   "key": "0x00000996887FD546",
+   "off": 130456,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD2D55D36A",
+   "off": 10790,
+   "size": 154
+  }
+ },
+ "McLaren P1": {
+  "cardef_off": 580321,
+  "physics": {
+   "key": "0x000009894AC81179",
+   "off": 132596,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF98AC551",
+   "off": 15276,
+   "size": 148
+  }
+ },
+ "McLaren F1 LM": {
+  "cardef_off": 585572,
+  "physics": {
+   "key": "0x00000996A37469EC",
+   "off": 132168,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD2F686175",
+   "off": 11888,
+   "size": 151
+  }
+ },
+ "Ferrari LaFerrari #4": {
+  "cardef_off": 588396,
+  "physics": {
+   "key": "0x00000989548F5836",
+   "off": 139500,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC603B0090",
+   "off": 17138,
+   "size": 155
+  }
+ },
+ "Ferrari F40": {
+  "cardef_off": 590542,
+  "physics": {
+   "key": "0x00000996A4B64590",
+   "off": 15148,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9BF5B074",
+   "off": 24941,
+   "size": 149
+  }
+ },
+ "Rezvani Beast X": {
+  "cardef_off": 593193,
+  "physics": {
+   "key": "0x0000098969A6BF50",
+   "off": 136908,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD246324D6",
+   "off": 23216,
+   "size": 153
+  }
+ },
+ "Pagani Imola": {
+  "cardef_off": 595856,
+  "physics": {
+   "key": "0x00000989041F044F",
+   "off": 8728,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD3E2494ED",
+   "off": 25395,
+   "size": 150
+  }
+ },
+ "Mazzanti Evantra Millecavalli": {
+  "cardef_off": 598725,
+  "physics": {
+   "key": "0x0000098919058082",
+   "off": 10012,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACB6C3E5F7",
+   "off": 21508,
+   "size": 167
+  }
+ },
+ "Lamborghini Essenza SCV12": {
+  "cardef_off": 601565,
+  "physics": {
+   "key": "0x00000989340AB0EA",
+   "off": 7420,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC72D6862A",
+   "off": 25545,
+   "size": 159
+  }
+ },
+ "ATS Corsa RRTurbo": {
+  "cardef_off": 604505,
+  "physics": {
+   "key": "0x00000996B90AABD4",
+   "off": 9156,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD4A3FEF24",
+   "off": 22302,
+   "size": 147
+  }
+ },
+ "Ferrari Ferrari Roma": {
+  "cardef_off": 607200,
+  "physics": {
+   "key": "0x0000099682CEF0A3",
+   "off": 15576,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9CDEAA0A",
+   "off": 21675,
+   "size": 150
+  }
+ },
+ "Italdesign DaVinci": {
+  "cardef_off": 610038,
+  "physics": {
+   "key": "0x00000989E1C2232A",
+   "off": 3528,
+   "size": 444
+  },
+  "chassis": {
+   "key": "0x000009AC6D17E739",
+   "off": 19944,
+   "size": 156
+  }
+ },
+ "Aston Martin Victor": {
+  "cardef_off": 612753,
+  "physics": {
+   "key": "0x00000996D3B867DA",
+   "off": 3972,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD2C968C74",
+   "off": 25704,
+   "size": 147
+  }
+ },
+ "Zenvo TSR-S": {
+  "cardef_off": 615508,
+  "physics": {
+   "key": "0x00000996A1F96FD1",
+   "off": 5700,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD0847CEA7",
+   "off": 23369,
+   "size": 157
+  }
+ },
+ "Henessey Venom GT": {
+  "cardef_off": 618456,
+  "physics": {
+   "key": "0x00000989F237CABE",
+   "off": 1736,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD05CFBAA4",
+   "off": 26477,
+   "size": 156
+  }
+ },
+ "Toroidion 1MW": {
+  "cardef_off": 619271,
+  "physics": {
+   "key": "0x000009893ED847CE",
+   "off": 19476,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009AD057F6C37",
+   "off": 27104,
+   "size": 151
+  }
+ },
+ "Renault RS01": {
+  "cardef_off": 621911,
+  "physics": {
+   "key": "0x000009891760C681",
+   "off": 9584,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD31518DB3",
+   "off": 20247,
+   "size": 150
+  }
+ },
+ "Bugatti Veyron GV": {
+  "cardef_off": 624675,
+  "physics": {
+   "key": "0x000009968B26B884",
+   "off": 452,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC7CE61969",
+   "off": 23846,
+   "size": 155
+  }
+ },
+ "Rimac Concept One": {
+  "cardef_off": 627525,
+  "physics": {
+   "key": "0x00000996B6B073BE",
+   "off": 2632,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009ACC2E76E8E",
+   "off": 28314,
+   "size": 147
+  }
+ },
+ "Volkswagen ELECTRIC R": {
+  "cardef_off": 630374,
+  "physics": {
+   "key": "0x0000099699927671",
+   "off": 2164,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009AC88C9C202",
+   "off": 27407,
+   "size": 158
+  }
+ },
+ "Renault TreZor": {
+  "cardef_off": 633200,
+  "physics": {
+   "key": "0x0000098945D27A1B",
+   "off": 19944,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009AC6F668008",
+   "off": 27255,
+   "size": 152
+  }
+ },
+ "Saleen S1": {
+  "cardef_off": 635918,
+  "physics": {
+   "key": "0x00000996B4EBDC3E",
+   "off": 21268,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD1BFC3FD5",
+   "off": 27716,
+   "size": 147
+  }
+ },
+ "Naran Hyper Coupe": {
+  "cardef_off": 638661,
+  "physics": {
+   "key": "0x00000989297E6251",
+   "off": 27276,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD5626314B",
+   "off": 22753,
+   "size": 155
+  }
+ },
+ "Koenigsegg Gemera": {
+  "cardef_off": 641454,
+  "physics": {
+   "key": "0x00000996B281B418",
+   "off": 22552,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACFC0F82D9",
+   "off": 28613,
+   "size": 155
+  }
+ },
+ "Aston Martin V12 Speedster": {
+  "cardef_off": 644364,
+  "physics": {
+   "key": "0x0000098901483437",
+   "off": 24,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9D3044B5",
+   "off": 26168,
+   "size": 154
+  }
+ },
+ "Pagani Zonda R": {
+  "cardef_off": 646965,
+  "physics": {
+   "key": "0x00000989C162125B",
+   "off": 25992,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACAE57E794",
+   "off": 28461,
+   "size": 152
+  }
+ },
+ "McLaren Elva": {
+  "cardef_off": 649830,
+  "physics": {
+   "key": "0x00000989C90E6EAA",
+   "off": 1308,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACC739F44C",
+   "off": 26788,
+   "size": 150
+  }
+ },
+ "Henessey Venom": {
+  "cardef_off": 652767,
+  "physics": {
+   "key": "0x00000989DD2D87CB",
+   "off": 18580,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD0ACBD43F",
+   "off": 26633,
+   "size": 155
+  }
+ },
+ "Ultima RS": {
+  "cardef_off": 655229,
+  "physics": {
+   "key": "0x0000099686C3D277",
+   "off": 22980,
+   "size": 436
+  },
+  "chassis": {
+   "key": "0x000009ACB7BACF57",
+   "off": 28768,
+   "size": 147
+  }
+ },
+ "Aston Martin One77": {
+  "cardef_off": 657957,
+  "physics": {
+   "key": "0x00000989DB28443E",
+   "off": 23416,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC99AD6AFF",
+   "off": 28915,
+   "size": 154
+  }
+ },
+ "McLaren GT": {
+  "cardef_off": 660730,
+  "physics": {
+   "key": "0x00000996B99142C6",
+   "off": 26848,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACB13ACA14",
+   "off": 29224,
+   "size": 148
+  }
+ },
+ "Volkswagen W12 Nardo": {
+  "cardef_off": 663583,
+  "physics": {
+   "key": "0x00000996A0AF6994",
+   "off": 11724,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD07BBFD2B",
+   "off": 22449,
+   "size": 158
+  }
+ },
+ "Lamborghini SC20": {
+  "cardef_off": 666447,
+  "physics": {
+   "key": "0x00000989ED1B09E9",
+   "off": 17296,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACE2AFCD0E",
+   "off": 20723,
+   "size": 154
+  }
+ },
+ "Jaguar XJ220S TWR": {
+  "cardef_off": 669127,
+  "physics": {
+   "key": "0x00000996809B2E36",
+   "off": 23844,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC89B3C12D",
+   "off": 29069,
+   "size": 155
+  }
+ },
+ "McLaren Senna GTR": {
+  "cardef_off": 671973,
+  "physics": {
+   "key": "0x000009891B0340D8",
+   "off": 24272,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD182B6446",
+   "off": 30896,
+   "size": 155
+  }
+ },
+ "RAESR Tachyon Speed": {
+  "cardef_off": 674720,
+  "physics": {
+   "key": "0x00000996A29E86F2",
+   "off": 4828,
+   "size": 444
+  },
+  "chassis": {
+   "key": "0x000009ACF97CBB26",
+   "off": 28163,
+   "size": 151
+  }
+ },
+ "Lotus Emira": {
+  "cardef_off": 677584,
+  "physics": {
+   "key": "0x000009897EF8C545",
+   "off": 25556,
+   "size": 436
+  },
+  "chassis": {
+   "key": "0x000009AD1C9E846C",
+   "off": 32900,
+   "size": 149
+  }
+ },
+ "Vision 1789": {
+  "cardef_off": 680300,
+  "physics": {
+   "key": "0x000009897873ECA0",
+   "off": 24700,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD4B65197",
+   "off": 31992,
+   "size": 151
+  }
+ },
+ "Tushek TS 900 H Racer Pro": {
+  "cardef_off": 683292,
+  "physics": {
+   "key": "0x00000996B7D1F729",
+   "off": 25128,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACCA9FD7BF",
+   "off": 33206,
+   "size": 151
+  }
+ },
+ "Arash AF8 FalconEdition": {
+  "cardef_off": 686053,
+  "physics": {
+   "key": "0x000009895CB64738",
+   "off": 26420,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACDC635297",
+   "off": 29372,
+   "size": 149
+  }
+ },
+ "Puritalia Berlinetta": {
+  "cardef_off": 688974,
+  "physics": {
+   "key": "0x0000099685DF4230",
+   "off": 39728,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACB71CF6E9",
+   "off": 33986,
+   "size": 158
+  }
+ },
+ "Scuderia Cameron Glickenhaus SCG 007 S": {
+  "cardef_off": 691650,
+  "physics": {
+   "key": "0x00000989C1EDE929",
+   "off": 20412,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACB115FF3C",
+   "off": 22607,
+   "size": 146
+  }
+ },
+ "Zenvo TSR-S Dragonboat Edition": {
+  "cardef_off": 694526,
+  "physics": {
+   "key": "0x00000989CBEDB85E",
+   "off": 16432,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD0EAB99D",
+   "off": 23059,
+   "size": 157
+  }
+ },
+ "Drako GTE": {
+  "cardef_off": 697204,
+  "physics": {
+   "key": "0x00000996D36A41EF",
+   "off": 19008,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009AC925998F9",
+   "off": 24001,
+   "size": 147
+  }
+ },
+ "Henessey Venom F5 Revolution": {
+  "cardef_off": 699918,
+  "physics": {
+   "key": "0x000009897551A4AF",
+   "off": 18152,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD0448A2EF",
+   "off": 26938,
+   "size": 166
+  }
+ },
+ "Nissan GT-R 50 Italdesign": {
+  "cardef_off": 702102,
+  "physics": {
+   "key": "0x000009891FC7AE6A",
+   "off": 20840,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC8571897C",
+   "off": 27565,
+   "size": 151
+  }
+ },
+ "Lamborghini Aventador SVJ Roadster": {
+  "cardef_off": 702754,
+  "physics": {
+   "key": "0x000009892D6DDF9B",
+   "off": 11296,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD11478837",
+   "off": 26000,
+   "size": 168
+  }
+ },
+ "Bugatti Mistral": {
+  "cardef_off": 705523,
+  "physics": {
+   "key": "0x0000098944AE6262",
+   "off": 16860,
+   "size": 436
+  },
+  "chassis": {
+   "key": "0x000009AD53745FA9",
+   "off": 26322,
+   "size": 155
+  }
+ },
+ "Aston Martin Valkyre": {
+  "cardef_off": 708401,
+  "physics": {
+   "key": "0x00000989C8FC2EB7",
+   "off": 16004,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACFFD72A1C",
+   "off": 25851,
+   "size": 149
+  }
+ },
+ "Arash Imperium": {
+  "cardef_off": 711236,
+  "physics": {
+   "key": "0x000009895E3437ED",
+   "off": 21696,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACFC6FC087",
+   "off": 27863,
+   "size": 152
+  }
+ },
+ "Pagani Zonda HP Barchetta": {
+  "cardef_off": 712017,
+  "physics": {
+   "key": "0x000009893CE4F9A8",
+   "off": 17724,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD22F86746",
+   "off": 23693,
+   "size": 153
+  }
+ },
+ "Arash AF10": {
+  "cardef_off": 714983,
+  "physics": {
+   "key": "0x000009896FF8FE2C",
+   "off": 22124,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD54F20387",
+   "off": 28015,
+   "size": 148
+  }
+ },
+ "Mercedes Benz Concept Silver Lightning 2011": {
+  "cardef_off": 717773,
+  "physics": {
+   "key": "0x00000996BD113A40",
+   "off": 58704,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9B60EECE",
+   "off": 40322,
+   "size": 181
+  }
+ },
+ "Bugatti Chiron Pur Sport": {
+  "cardef_off": 718439,
+  "physics": {
+   "key": "0x00000996AF452759",
+   "off": 71140,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD49F47584",
+   "off": 44272,
+   "size": 162
+  }
+ },
+ "Lamborghini Temerario": {
+  "cardef_off": 721196,
+  "physics": {
+   "key": "0x000009896515FFB0",
+   "off": 62152,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC6955A079",
+   "off": 40965,
+   "size": 159
+  }
+ },
+ "Jaguar_XKR_S_GT": {
+  "cardef_off": 724034,
+  "physics": {
+   "key": "0x0000098920D22816",
+   "off": 66004,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD01B0AE60",
+   "off": 46629,
+   "size": 153
+  }
+ },
+ "Pagani Huayra Codalunga": {
+  "cardef_off": 726762,
+  "physics": {
+   "key": "0x00000989C93CAF41",
+   "off": 71568,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACC28DEA19",
+   "off": 41930,
+   "size": 157
+  }
+ },
+ "Mercedes_Benz_Vision_One_Eleven": {
+  "cardef_off": 729695,
+  "physics": {
+   "key": "0x000009897DABBDFB",
+   "off": 57824,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AD528E91C4",
+   "off": 39379,
+   "size": 169
+  }
+ },
+ "ATS GT": {
+  "cardef_off": 732471,
+  "physics": {
+   "key": "0x0000098909C32968",
+   "off": 67716,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9A7372A9",
+   "off": 42872,
+   "size": 144
+  }
+ },
+ "Lotus_ER9": {
+  "cardef_off": 735280,
+  "physics": {
+   "key": "0x000009892F8A4A4E",
+   "off": 73320,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009ACE18B7A32",
+   "off": 40818,
+   "size": 147
+  }
+ },
+ "Ford GT CNY Edition": {
+  "cardef_off": 737943,
+  "physics": {
+   "key": "0x00000996B622B7B5",
+   "off": 72424,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD195A0D0E",
+   "off": 40662,
+   "size": 156
+  }
+ },
+ "Porsche 911 Carrera RS3.8": {
+  "cardef_off": 740561,
+  "physics": {
+   "key": "0x00000989F2C6E686",
+   "off": 56088,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD0061EC17",
+   "off": 44434,
+   "size": 163
+  }
+ },
+ "HTT Locus Plethore lc750": {
+  "cardef_off": 743296,
+  "physics": {
+   "key": "0x000009895E0CB81C",
+   "off": 74216,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC7E32401F",
+   "off": 41124,
+   "size": 156
+  }
+ },
+ "Porsche 911 Targa 50th Anniversary": {
+  "cardef_off": 746038,
+  "physics": {
+   "key": "0x00000989DF576CFA",
+   "off": 58276,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD5680CBBC",
+   "off": 45835,
+   "size": 169
+  }
+ },
+ "RAESR Tartarus": {
+  "cardef_off": 748975,
+  "physics": {
+   "key": "0x0000098908C034FD",
+   "off": 63864,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD303D1FA",
+   "off": 43479,
+   "size": 153
+  }
+ },
+ "Porsche_Mission_R_Concept": {
+  "cardef_off": 751697,
+  "physics": {
+   "key": "0x000009893642D164",
+   "off": 57372,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009ACD4BAD827",
+   "off": 39216,
+   "size": 163
+  }
+ },
+ "Ferrari 296 GTB": {
+  "cardef_off": 754373,
+  "physics": {
+   "key": "0x00000989F4C7A2C2",
+   "off": 68144,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACA55EDF0E",
+   "off": 40170,
+   "size": 152
+  }
+ },
+ "Toyota_GR_Supra_2023": {
+  "cardef_off": 757245,
+  "physics": {
+   "key": "0x0000098941559574",
+   "off": 81120,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF6D9CDD4",
+   "off": 48506,
+   "size": 157
+  }
+ },
+ "Aston Martin DB12": {
+  "cardef_off": 759997,
+  "physics": {
+   "key": "0x000009968DA6870D",
+   "off": 67288,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC851813BA",
+   "off": 44899,
+   "size": 155
+  }
+ },
+ "Aston Martin Valour": {
+  "cardef_off": 762733,
+  "physics": {
+   "key": "0x00000989EC42C4B3",
+   "off": 56944,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD02551902",
+   "off": 45530,
+   "size": 157
+  }
+ },
+ "Czinger C21": {
+  "cardef_off": 765511,
+  "physics": {
+   "key": "0x00000996A42D3344",
+   "off": 72852,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009ACBC8425F8",
+   "off": 43330,
+   "size": 149
+  }
+ },
+ "LEGO_Chevrolet_Corvette_Stingray_C8R_Edition": {
+  "cardef_off": 768279,
+  "physics": {
+   "key": "0x00000989FCA01A92",
+   "off": 73788,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACA695893E",
+   "off": 41280,
+   "size": 174
+  }
+ },
+ "Frangivento_GT65": {
+  "cardef_off": 768757,
+  "physics": {
+   "key": "0x00000996D277A2FE",
+   "off": 62580,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC89F64CBC",
+   "off": 39698,
+   "size": 154
+  }
+ },
+ "Lamborghini Autentica": {
+  "cardef_off": 771602,
+  "physics": {
+   "key": "0x00000989EAC5AB56",
+   "off": 66860,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9AEFA1D8",
+   "off": 42398,
+   "size": 159
+  }
+ },
+ "McLaren Sabre": {
+  "cardef_off": 774420,
+  "physics": {
+   "key": "0x00000989C7D32D65",
+   "off": 59132,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD0CC7DBD5",
+   "off": 46478,
+   "size": 151
+  }
+ },
+ "Pagani Utopia Coupe 2023": {
+  "cardef_off": 777337,
+  "physics": {
+   "key": "0x00000996D6AA2996",
+   "off": 70712,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC771E2256",
+   "off": 43173,
+   "size": 157
+  }
+ },
+ "Maserati_MC20_GT2": {
+  "cardef_off": 780195,
+  "physics": {
+   "key": "0x0000098937E8DC0C",
+   "off": 65576,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD4BC209FE",
+   "off": 43966,
+   "size": 151
+  }
+ },
+ "McMurtry Speirling": {
+  "cardef_off": 782927,
+  "physics": {
+   "key": "0x00000989EBDF1DDB",
+   "off": 68572,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC76163258",
+   "off": 42243,
+   "size": 155
+  }
+ },
+ "Ferrari_SF90_XX_Stradale": {
+  "cardef_off": 785623,
+  "physics": {
+   "key": "0x00000996D7DC8EC2",
+   "off": 61296,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACA4084E93",
+   "off": 45368,
+   "size": 162
+  }
+ },
+ "Mercedes Benz AMG Vision 2022": {
+  "cardef_off": 788468,
+  "physics": {
+   "key": "0x0000099698D254F4",
+   "off": 61724,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF907DFBC",
+   "off": 41768,
+   "size": 162
+  }
+ },
+ "Praga_Bohema": {
+  "cardef_off": 791270,
+  "physics": {
+   "key": "0x0000098904007AE6",
+   "off": 75072,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD4BF0E20",
+   "off": 46004,
+   "size": 150
+  }
+ },
+ "DeTomaso_P900": {
+  "cardef_off": 794008,
+  "physics": {
+   "key": "0x00000989215DE89D",
+   "off": 56516,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD05757F65",
+   "off": 44749,
+   "size": 150
+  }
+ },
+ "Alfa Romeo Giulia GTAm": {
+  "cardef_off": 796696,
+  "physics": {
+   "key": "0x00000996AC36E0BA",
+   "off": 64292,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD4AF88FFE",
+   "off": 44117,
+   "size": 155
+  }
+ },
+ "Lamborghini Huracan STO": {
+  "cardef_off": 799485,
+  "physics": {
+   "key": "0x000009895E5E6D3B",
+   "off": 69856,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF1F2797C",
+   "off": 39852,
+   "size": 161
+  }
+ },
+ "Ferrari_499P_Modificata": {
+  "cardef_off": 802172,
+  "physics": {
+   "key": "0x00000989E9E572E8",
+   "off": 75500,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD18D1B0EF",
+   "off": 46317,
+   "size": 161
+  }
+ },
+ "LEGO_Aston_Martin_Valkirie": {
+  "cardef_off": 804808,
+  "physics": {
+   "key": "0x000009894200B5B8",
+   "off": 63436,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACA76B1175",
+   "off": 46154,
+   "size": 163
+  }
+ },
+ "TVR Sagaris": {
+  "cardef_off": 807435,
+  "physics": {
+   "key": "0x000009894654B971",
+   "off": 66432,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9C8FF6AA",
+   "off": 39548,
+   "size": 150
+  }
+ },
+ "Zenvo Aurora Tur": {
+  "cardef_off": 810124,
+  "physics": {
+   "key": "0x00000989F805F2AE",
+   "off": 71996,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD18C9D2C5",
+   "off": 42557,
+   "size": 154
+  }
+ },
+ "Formula_E_GEN3_EVO": {
+  "cardef_off": 812870,
+  "physics": {
+   "key": "0x00000996A97DC1C5",
+   "off": 60416,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AD320508C5",
+   "off": 46782,
+   "size": 164
+  }
+ },
+ "Ferrari Daytona SP3": {
+  "cardef_off": 815672,
+  "physics": {
+   "key": "0x00000989200FA188",
+   "off": 69000,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF9E523D2",
+   "off": 40013,
+   "size": 157
+  }
+ },
+ "Lamborghini SC63": {
+  "cardef_off": 818459,
+  "physics": {
+   "key": "0x00000989E85E2DF2",
+   "off": 70284,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC7A3A84EB",
+   "off": 45214,
+   "size": 154
+  }
+ },
+ "Frangivento_Asfane": {
+  "cardef_off": 821115,
+  "physics": {
+   "key": "0x00000989199F2C46",
+   "off": 55660,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACF38BFE1C",
+   "off": 42087,
+   "size": 156
+  }
+ },
+ "CarDef_Ford_Mustang_RTR_Spec_5-FD_Anniversary": {
+  "cardef_off": 824036,
+  "physics": {
+   "key": "0x0000099685A94A15",
+   "off": 69428,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACE5E164D1",
+   "off": 40503,
+   "size": 159
+  }
+ },
+ "Kimera Evo37": {
+  "cardef_off": 826850,
+  "physics": {
+   "key": "0x000009968B94E08C",
+   "off": 74644,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACB93FE445",
+   "off": 45687,
+   "size": 148
+  }
+ },
+ "Porsche_911_Turbo_S": {
+  "cardef_off": 829675,
+  "physics": {
+   "key": "0x0000098939D9AF96",
+   "off": 75928,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACDAF0F695",
+   "off": 46946,
+   "size": 156
+  }
+ },
+ "Ford Shelby Super Snake": {
+  "cardef_off": 832580,
+  "physics": {
+   "key": "0x00000996957B70A4",
+   "off": 59560,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD0387C2B6",
+   "off": 47102,
+   "size": 161
+  }
+ },
+ "Pininfarina_Teorema": {
+  "cardef_off": 835275,
+  "physics": {
+   "key": "0x0000098916AA3B9B",
+   "off": 76356,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACC05D98B7",
+   "off": 47263,
+   "size": 157
+  }
+ },
+ "LEGO_Lamborghini_Revuelto": {
+  "cardef_off": 837877,
+  "physics": {
+   "key": "0x00000989E39810FE",
+   "off": 59988,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACDFA83558",
+   "off": 41454,
+   "size": 163
+  }
+ },
+ "LEGO_Ferrari_FXXK": {
+  "cardef_off": 840503,
+  "physics": {
+   "key": "0x00000996954CD8C2",
+   "off": 76784,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACCD1F01E1",
+   "off": 47577,
+   "size": 155
+  }
+ },
+ "Ford_GT_MK_IV_TrackCar": {
+  "cardef_off": 843121,
+  "physics": {
+   "key": "0x000009969685F76B",
+   "off": 65148,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD40A73262",
+   "off": 47732,
+   "size": 148
+  }
+ },
+ "Toyota_GR_Supra_Racing_Concept": {
+  "cardef_off": 845812,
+  "physics": {
+   "key": "0x00000989E15F24B3",
+   "off": 77212,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD9B49378",
+   "off": 47880,
+   "size": 168
+  }
+ },
+ "Nissan Z GT4 Nismo": {
+  "cardef_off": 848571,
+  "physics": {
+   "key": "0x0000098947AD8001",
+   "off": 60868,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACA52B200B",
+   "off": 48663,
+   "size": 156
+  }
+ },
+ "Pagani_Zonda_Cinque": {
+  "cardef_off": 851231,
+  "physics": {
+   "key": "0x0000098973C3FFDF",
+   "off": 64720,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACA3FE1463",
+   "off": 47420,
+   "size": 157
+  }
+ },
+ "SSC_Ultimate_Aero_TT": {
+  "cardef_off": 854005,
+  "physics": {
+   "key": "0x00000989C33149BE",
+   "off": 77640,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD56E8FAEA",
+   "off": 48048,
+   "size": 155
+  }
+ },
+ "Mercedes_AMG_One": {
+  "cardef_off": 856819,
+  "physics": {
+   "key": "0x00000996ADB1C3FF",
+   "off": 78068,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACDEBDA263",
+   "off": 48203,
+   "size": 154
+  }
+ },
+ "SSC_Tuatara_Striker": {
+  "cardef_off": 859626,
+  "physics": {
+   "key": "0x000009894DC0BD00",
+   "off": 78496,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD53994A81",
+   "off": 48357,
+   "size": 149
+  }
+ },
+ "Hyundai_N_Vision_74_Concept": {
+  "cardef_off": 862008,
+  "physics": {
+   "key": "0x000009892DA04107",
+   "off": 78924,
+   "size": 444
+  },
+  "chassis": {
+   "key": "0x000009AD40FA5F76",
+   "off": 48819,
+   "size": 165
+  }
+ },
+ "Hyundai_IONIQ_5N": {
+  "cardef_off": 864642,
+  "physics": {
+   "key": "0x0000099695FD8953",
+   "off": 79368,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009AD06945BE5",
+   "off": 48984,
+   "size": 153
+  }
+ },
+ "Toyota GR Super Sport Concept": {
+  "cardef_off": 867368,
+  "physics": {
+   "key": "0x00000996A73AFA01",
+   "off": 80692,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD1B1A43B8",
+   "off": 49137,
+   "size": 165
+  }
+ },
+ "Lexus_bev_Sport_Concept": {
+  "cardef_off": 870085,
+  "physics": {
+   "key": "0x0000099697D40555",
+   "off": 81548,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AC85BD351A",
+   "off": 49457,
+   "size": 161
+  }
+ },
+ "Aston_Martin_DBS770_Ultimate": {
+  "cardef_off": 872821,
+  "physics": {
+   "key": "0x0000098947AD5C41",
+   "off": 79836,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACB81F5B96",
+   "off": 50557,
+   "size": 166
+  }
+ },
+ "BMW_M_Hybrid_V8": {
+  "cardef_off": 875700,
+  "physics": {
+   "key": "0x0000098906E1C642",
+   "off": 80264,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD0636FE51",
+   "off": 50098,
+   "size": 153
+  }
+ },
+ "Ford_Mustang_RTR_Spec_5-FD": {
+  "cardef_off": 878357,
+  "physics": {
+   "key": "0x000009893E7390E0",
+   "off": 82428,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD28683F39",
+   "off": 53119,
+   "size": 164
+  }
+ },
+ "Koenigsegg_One1": {
+  "cardef_off": 881047,
+  "physics": {
+   "key": "0x0000099689C30501",
+   "off": 82856,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD3BE41C2E",
+   "off": 51055,
+   "size": 153
+  }
+ },
+ "Lotus_Emeya": {
+  "cardef_off": 883912,
+  "physics": {
+   "key": "0x000009892A308E58",
+   "off": 90672,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009AD0E5ABD17",
+   "off": 51208,
+   "size": 149
+  }
+ },
+ "RAESR_Aglaia": {
+  "cardef_off": 886660,
+  "physics": {
+   "key": "0x00000989F065D60D",
+   "off": 89792,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACC6DD7915",
+   "off": 50251,
+   "size": 150
+  }
+ },
+ "Mclaren_750S": {
+  "cardef_off": 889372,
+  "physics": {
+   "key": "0x00000996D03D295F",
+   "off": 84164,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD404BDFF8",
+   "off": 53757,
+   "size": 150
+  }
+ },
+ "Ferrari_12Cilindri": {
+  "cardef_off": 892248,
+  "physics": {
+   "key": "0x00000996BCD1FE12",
+   "off": 88080,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACBA68858D",
+   "off": 52637,
+   "size": 156
+  }
+ },
+ "Porsche_917_Living_Legend_Concept": {
+  "cardef_off": 895048,
+  "physics": {
+   "key": "0x0000099686E8A1F7",
+   "off": 88936,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC75C11F44",
+   "off": 51513,
+   "size": 171
+  }
+ },
+ "Bugatti Tourbillon": {
+  "cardef_off": 897895,
+  "physics": {
+   "key": "0x000009894D6F2AEF",
+   "off": 143780,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009AD0C0A84B1",
+   "off": 6810,
+   "size": 156
+  }
+ },
+ "NIO EP9 Anniversary Special Edition": {
+  "cardef_off": 900623,
+  "physics": {
+   "key": "0x0000098962E4063B",
+   "off": 880,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC9F494598",
+   "off": 18697,
+   "size": 145
+  }
+ },
+ "Mercedes_Benz_Biome_2010": {
+  "cardef_off": 903265,
+  "physics": {
+   "key": "0x00000996D3DD8DE5",
+   "off": 82000,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC82217559",
+   "off": 52793,
+   "size": 157
+  }
+ },
+ "Porsche_919_Street": {
+  "cardef_off": 906296,
+  "physics": {
+   "key": "0x000009897128B2B6",
+   "off": 88508,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD2C0CA424",
+   "off": 53601,
+   "size": 156
+  }
+ },
+ "Porsche_918_Spyder_Asphalt_Edition": {
+  "cardef_off": 909041,
+  "physics": {
+   "key": "0x000009969D119ACC",
+   "off": 86368,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACEFF26B24",
+   "off": 54074,
+   "size": 172
+  }
+ },
+ "Ares_Panther_Evo": {
+  "cardef_off": 911867,
+  "physics": {
+   "key": "0x000009897F971515",
+   "off": 85940,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC5EADB059",
+   "off": 49618,
+   "size": 154
+  }
+ },
+ "Mercedes Benz C 63 AMG DTM": {
+  "cardef_off": 914682,
+  "physics": {
+   "key": "0x00000996DFC3F03C",
+   "off": 87652,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC66E9F9F7",
+   "off": 49772,
+   "size": 181
+  }
+ },
+ "Nilu_27": {
+  "cardef_off": 917456,
+  "physics": {
+   "key": "0x0000098940D616FB",
+   "off": 91592,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD1C087124",
+   "off": 49953,
+   "size": 145
+  }
+ },
+ "Automobili Pininfarina B95": {
+  "cardef_off": 920182,
+  "physics": {
+   "key": "0x000009893FA8B21C",
+   "off": 90220,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AD05A0E36E",
+   "off": 51684,
+   "size": 164
+  }
+ },
+ "Ferrari_F12_Berlinetta": {
+  "cardef_off": 922975,
+  "physics": {
+   "key": "0x0000099692554D38",
+   "off": 83284,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACAA9CB98A",
+   "off": 51848,
+   "size": 159
+  }
+ },
+ "Citroen DS_Survolt": {
+  "cardef_off": 925764,
+  "physics": {
+   "key": "0x000009892A57BD97",
+   "off": 91140,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AC6C5568DC",
+   "off": 51357,
+   "size": 156
+  }
+ },
+ "LEGO_Bugatti_Chiron_Pur_Sport": {
+  "cardef_off": 928516,
+  "physics": {
+   "key": "0x000009896A30733A",
+   "off": 92876,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD31EE5AC6",
+   "off": 53907,
+   "size": 167
+  }
+ },
+ "Dodge_Charger_SRT_Hellcat_Redeye_Widebody": {
+  "cardef_off": 929099,
+  "physics": {
+   "key": "0x00000996A3C76C11",
+   "off": 92020,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC7C3C5600",
+   "off": 50723,
+   "size": 173
+  }
+ },
+ "Icona_Vulcano_Titanium_Spider": {
+  "cardef_off": 931945,
+  "physics": {
+   "key": "0x000009892D3E65D4",
+   "off": 93732,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC862E640C",
+   "off": 53434,
+   "size": 167
+  }
+ },
+ "Koenigsegg_Chimera": {
+  "cardef_off": 934772,
+  "physics": {
+   "key": "0x00000996B67D15F7",
+   "off": 86796,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACBD7A6761",
+   "off": 50401,
+   "size": 156
+  }
+ },
+ "Lexus_LFA_Nurburgring_Performance": {
+  "cardef_off": 937501,
+  "physics": {
+   "key": "0x00000989C52A0105",
+   "off": 92448,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AC6F44C356",
+   "off": 50896,
+   "size": 159
+  }
+ },
+ "Battista_Edizione_Nino_Farina": {
+  "cardef_off": 940109,
+  "physics": {
+   "key": "0x000009895A52C447",
+   "off": 83712,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009AC69706C1D",
+   "off": 52950,
+   "size": 169
+  }
+ },
+ "LEGO_Technic_BMW_M4_GT4_EVO": {
+  "cardef_off": 942905,
+  "physics": {
+   "key": "0x0000098931B1DC7F",
+   "off": 85044,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACD3B5513B",
+   "off": 52007,
+   "size": 157
+  }
+ },
+ "Tushek_Aeon_E": {
+  "cardef_off": 945533,
+  "physics": {
+   "key": "0x00000989C1C20FD1",
+   "off": 94160,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009AD0F57BCF9",
+   "off": 53283,
+   "size": 151
+  }
+ },
+ "Porsche_911_GT3_R_Rennsport": {
+  "cardef_off": 948372,
+  "physics": {
+   "key": "0x000009894F0DF497",
+   "off": 84592,
+   "size": 452
+  },
+  "chassis": {
+   "key": "0x000009ACFA1F42C5",
+   "off": 54246,
+   "size": 165
+  }
+ },
+ "Ferrante_Design_Dose_Elytron": {
+  "cardef_off": 951109,
+  "physics": {
+   "key": "0x00000996866614C2",
+   "off": 85472,
+   "size": 468
+  },
+  "chassis": {
+   "key": "0x000009AC5FD1DC08",
+   "off": 52471,
+   "size": 166
+  }
+ },
+ "Zenvo_Aurora_Agil": {
+  "cardef_off": 953815,
+  "physics": {
+   "key": "0x000009896E474695",
+   "off": 87224,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009ACCBB426CF",
+   "off": 49302,
+   "size": 155
+  }
+ },
+ "Mosler_SuperGT": {
+  "cardef_off": 956650,
+  "physics": {
+   "key": "0x0000098900A9CABC",
+   "off": 89364,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD1B632558",
+   "off": 52164,
+   "size": 152
+  }
+ },
+ "Mercedes_Benz_C11": {
+  "cardef_off": 959440,
+  "physics": {
+   "key": "0x000009890633D896",
+   "off": 93304,
+   "size": 428
+  },
+  "chassis": {
+   "key": "0x000009AD2F097AA4",
+   "off": 52316,
+   "size": 155
+  }
+ }
+}

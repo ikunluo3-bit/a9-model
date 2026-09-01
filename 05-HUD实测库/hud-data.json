@@ -1,0 +1,40 @@
+{
+  "points": [
+    {
+      "car": "BMW Z4 LCI E89",
+      "physical": 218.5,
+      "hud": 260.0,
+      "panel": 269.2,
+      "condition": "原厂未改，比赛实测",
+      "confirmed": true,
+      "source": "车主实测"
+    },
+    {
+      "car": "BMW Z4 LCI E89 (v2改造)",
+      "physical": 357.0,
+      "hud": 556.0,
+      "panel": 269.2,
+      "condition": "v2改造版，比赛实测",
+      "confirmed": true,
+      "source": "车主实测"
+    },
+    {
+      "car": "McLaren Senna",
+      "physical": 268.0,
+      "hud": 360.8,
+      "panel": null,
+      "condition": "满改，比赛HUD实测",
+      "confirmed": true,
+      "source": "车主实测"
+    },
+    {
+      "car": "Koenigsegg Jesko Absolut",
+      "physical": 350.0,
+      "hud": 541.0,
+      "panel": null,
+      "condition": "杰AB 比赛HUD实测",
+      "confirmed": true,
+      "source": "车主实测"
+    }
+  ]
+}

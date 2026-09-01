@@ -1,0 +1,590 @@
+[
+ {
+  "site": 55791996,
+  "offset": 8,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 55792292,
+  "offset": 32,
+  "base": 25,
+  "how": "imm"
+ },
+ {
+  "site": 55831528,
+  "offset": 96,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 55855760,
+  "offset": 256,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 55884508,
+  "offset": 104,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 55984664,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 56118104,
+  "offset": 3592,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 56118984,
+  "offset": 3592,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 56549776,
+  "offset": 3752,
+  "base": 0,
+  "how": "imm"
+ },
+ {
+  "site": 56570872,
+  "offset": 1352,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 56638520,
+  "offset": 3360,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 56641312,
+  "offset": 3360,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 56696812,
+  "offset": 3360,
+  "base": 0,
+  "how": "imm"
+ },
+ {
+  "site": 56741612,
+  "offset": 68,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 56741628,
+  "offset": 80,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 56741644,
+  "offset": 92,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 56751652,
+  "offset": 96,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 56927468,
+  "offset": 32,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 56928288,
+  "offset": 1468,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 56928304,
+  "offset": 1468,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 56929204,
+  "offset": 1588,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 56945860,
+  "offset": 8,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 56945872,
+  "offset": 12,
+  "base": 20,
+  "how": "imm"
+ },
+ {
+  "site": 56946068,
+  "offset": 12,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 56946316,
+  "offset": 0,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 56946328,
+  "offset": 12,
+  "base": 20,
+  "how": "imm"
+ },
+ {
+  "site": 57055852,
+  "offset": 68,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 57884876,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 57885028,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 57885104,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 57972112,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 57972264,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 57972340,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58033820,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58033972,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58034048,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58132220,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58132372,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58132448,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58170984,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58171136,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58171212,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58194536,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58194688,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58194764,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58213608,
+  "offset": 0,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58242756,
+  "offset": 0,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58242780,
+  "offset": 0,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58251208,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58251360,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58251436,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58296452,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58296604,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58296680,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58313312,
+  "offset": 32,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58347660,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58347812,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 58347888,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 60521140,
+  "offset": 880,
+  "base": 0,
+  "how": "imm"
+ },
+ {
+  "site": 60536924,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 60681432,
+  "offset": 0,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 81839000,
+  "offset": 104,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 83255008,
+  "offset": 36,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 91606960,
+  "offset": 0,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91606980,
+  "offset": 0,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91662772,
+  "offset": 64,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91796456,
+  "offset": 36,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 91832868,
+  "offset": 60,
+  "base": 20,
+  "how": "imm"
+ },
+ {
+  "site": 91832960,
+  "offset": 0,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91832984,
+  "offset": 0,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91843552,
+  "offset": 0,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91844104,
+  "offset": 0,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91844912,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91844952,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91844972,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91844992,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91845144,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91845332,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91845352,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91845372,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91845392,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91845412,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91845432,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91845452,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 91845472,
+  "offset": 16,
+  "base": 31,
+  "how": "imm"
+ },
+ {
+  "site": 92077748,
+  "offset": 96,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 92449208,
+  "offset": 72,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 92571956,
+  "offset": 12,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 92572476,
+  "offset": 12,
+  "base": 20,
+  "how": "imm"
+ },
+ {
+  "site": 92572496,
+  "offset": 24,
+  "base": 20,
+  "how": "imm"
+ },
+ {
+  "site": 92573412,
+  "offset": 36,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 92693320,
+  "offset": 12,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 92693336,
+  "offset": 24,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 92693504,
+  "offset": 24,
+  "base": 0,
+  "how": "imm"
+ },
+ {
+  "site": 92693520,
+  "offset": 36,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 92693536,
+  "offset": 48,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 92694488,
+  "offset": 68,
+  "base": 19,
+  "how": "imm"
+ },
+ {
+  "site": 92700116,
+  "offset": 48,
+  "base": 19,
+  "how": "imm"
+ }
+]
